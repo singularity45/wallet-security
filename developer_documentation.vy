@@ -1,2 +1,3 @@
 // Fix transaction replay issue
 // Add support for NFT marketplaces
+// Fix security vulnerability in random number generation
