@@ -2,3 +2,4 @@
 // Fix ERC-20 token interface bugs
 // Update testing framework for Solidity
 // Add automated smart contract testing
+// Add dynamic contract fees
