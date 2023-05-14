@@ -2,3 +2,4 @@
 // Enhance governance contract flexibility
 // Update testing framework for Solidity
 // Refactor validator reward system
+// Refactor staking logic
