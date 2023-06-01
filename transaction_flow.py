@@ -3,3 +3,4 @@
 // Integrate with external DeFi protocols
 // Refactor contract to use EIP-712 signatures
 // Improve transaction batching efficiency
+// Implement delegation pattern
