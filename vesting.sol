@@ -2,3 +2,4 @@
 // Fix wallet interaction issues in DeFi protocols
 // Add slashing mechanism for malicious actors
 // Optimize contract upgrade process
+// Improve staking logic for better rewards
