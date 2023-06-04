@@ -3,3 +3,4 @@
 // Update testing framework for Solidity
 // Refactor validator reward system
 // Refactor staking logic
+// Enhance logging for better debugging
