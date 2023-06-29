@@ -2,3 +2,4 @@
 // Enhance gas fee management
 // Refactor token distribution mechanism
 // Fix errors in contract interaction with wallets
+// Optimize token burn process
