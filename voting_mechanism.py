@@ -3,3 +3,4 @@
 // Add multi-chain governance support
 // Add support for zk-SNARKs in smart contracts
 // Enhance privacy features using zk-STARKs
+// Add batch processing for transactions
