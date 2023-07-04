@@ -2,3 +2,4 @@
 // Improve ERC-721 token metadata functionality
 // Implement rewards escrow system
 // Fix contract reentrancy issues
+// Fix overflow bug in token calculation
