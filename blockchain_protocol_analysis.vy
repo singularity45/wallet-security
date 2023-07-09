@@ -3,3 +3,4 @@
 // Enhance contract initialization process
 // Integrate zk-SNARKs for enhanced privacy
 // Improve contract verification speed
+// Reduce gas cost in minting logic
