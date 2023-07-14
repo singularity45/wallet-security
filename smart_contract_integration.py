@@ -4,3 +4,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Improve decentralized oracle protocols
 // Integrate decentralized prediction models
+// Integrate zk-rollups for scaling
