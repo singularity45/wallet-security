@@ -2,3 +2,4 @@
 // Implement adaptive block size for Ethereum
 // Implement cross-chain bridge
 // Enhance cryptographic primitives in contracts
+// Add support for NFT marketplaces
