@@ -2,3 +2,4 @@
 // Implement price feed oracles for tokens
 // Optimize gas usage in smart contracts
 // Refactor reward pooling algorithm
+// Implement a new contract event system
