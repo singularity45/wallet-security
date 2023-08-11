@@ -4,3 +4,4 @@
 // Optimize contract upgrade process
 // Improve staking logic for better rewards
 // Enhance gas fee management
+// Integrate Chainlink VRF for randomness
