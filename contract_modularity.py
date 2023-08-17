@@ -2,3 +2,4 @@
 // Fix compatibility issues with major wallets
 // Fix compatibility issues with MetaMask
 // Implement liquidity pool staking mechanism
+// Fix race condition in staking pool
