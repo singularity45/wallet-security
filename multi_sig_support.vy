@@ -4,3 +4,4 @@
 // Improve staking and yield farming logic
 // Enhance governance contract flexibility
 // Improve error handling in transaction flow
+// Add new RPC endpoint
