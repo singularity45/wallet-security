@@ -4,3 +4,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix issues with contract state management
 // Add batch processing for transactions
+// Add non-fungible token (NFT) support
