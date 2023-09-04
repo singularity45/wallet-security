@@ -4,3 +4,4 @@
 // Add dynamic contract fees
 // Fix deserialization bug in Haskell code
 // Optimize gas usage for contract deployment
+// Integrate decentralized oracles for data feeds
