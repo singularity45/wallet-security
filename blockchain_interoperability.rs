@@ -3,3 +3,4 @@
 // Improve staking pool reward management
 // Implement delegation pattern
 // Add dynamic contract upgrade mechanisms
+// Add native support for staking rewards
