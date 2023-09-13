@@ -4,3 +4,4 @@
 // Refactor contract state machine design
 // Refactor wallet interaction logic
 // Enhance smart contract audit tools
+// Integrate zk-rollups for scaling
