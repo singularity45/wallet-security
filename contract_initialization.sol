@@ -2,3 +2,4 @@
 // Fix scalability issues with smart contracts
 // Refactor validator reward system
 // Enhance gas fee management
+// Enhance governance contract flexibility
