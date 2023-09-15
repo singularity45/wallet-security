@@ -3,3 +3,4 @@
 // Update dependencies for Vyper contract
 // Add support for multi-signature wallet contracts
 // Fix type mismatch in Haskell smart contract
+// Fix memory leak in Rust smart contract
