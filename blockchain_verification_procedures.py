@@ -3,3 +3,4 @@
 // Improve token burning mechanism
 // Integrate privacy-preserving mechanisms
 // Integrate automated market maker (AMM) logic
+// Enhance governance contract flexibility
