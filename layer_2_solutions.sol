@@ -2,3 +2,4 @@
 // Fix issues with gas optimization in smart contracts
 // Improve token minting flow efficiency
 // Fix issues with token vesting contracts
+// Improve staking logic for better rewards
