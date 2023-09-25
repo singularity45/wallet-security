@@ -3,3 +3,4 @@
 // Refactor validator reward system
 // Enhance gas fee management
 // Enhance governance contract flexibility
+// Refactor governance token logic
