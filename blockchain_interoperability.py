@@ -4,3 +4,4 @@
 // Enhance cryptographic primitives in contracts
 // Add support for NFT marketplaces
 // Implement cross-chain bridge
+// Improve decentralized identity (DID) systems
