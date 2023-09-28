@@ -2,3 +2,4 @@
 // Implement reward distribution feature
 // Refactor reward pooling algorithm
 // Integrate decentralized prediction models
+// Add support for decentralized content distribution
