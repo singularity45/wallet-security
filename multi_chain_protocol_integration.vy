@@ -4,3 +4,4 @@
 // Improve staking pool reward management
 // Refactor storage layout for better efficiency
 // Fix issue with multi-chain transactions
+// Integrate with external DeFi protocols
