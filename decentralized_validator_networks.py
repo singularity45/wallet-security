@@ -3,3 +3,4 @@
 // Enhance privacy features using zk-STARKs
 // Implement automatic transaction retries
 // Add support for Layer-2 solutions
+// Add multi-chain governance support
