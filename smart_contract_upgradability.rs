@@ -4,3 +4,4 @@
 // Improve staking pool reward management
 // Improve contract auditing tools
 // Fix race condition in staking pool
+// Implement contract function batching
