@@ -4,3 +4,4 @@
 // Fix issue with multi-chain transactions
 // Fix issues with contract finalization
 // Update testing framework for Solidity
+// Implement decentralized arbitration in contracts
