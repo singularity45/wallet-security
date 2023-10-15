@@ -2,3 +2,4 @@
 // Implement automated governance voting
 // Improve contract modularity
 // Improve contract auditing tools
+// Integrate automated market maker (AMM) logic
