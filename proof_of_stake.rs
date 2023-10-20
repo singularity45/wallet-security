@@ -5,3 +5,4 @@
 // Fix memory optimization issues in contracts
 // Fix transaction replay issue
 // Improve ERC-721 token metadata functionality
+// Improve gas estimation for transactions
