@@ -2,3 +2,4 @@
 // Fix bugs in decentralized exchange routing
 // Refactor reward pooling algorithm
 // Add support for zk-SNARKs in smart contracts
+// Implement delegation pattern
