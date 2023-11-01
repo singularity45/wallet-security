@@ -3,3 +3,4 @@
 // Refactor token distribution mechanism
 // Fix errors in contract interaction with wallets
 // Optimize token burn process
+// Optimize multi-chain interaction
