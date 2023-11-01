@@ -4,3 +4,4 @@
 // Fix deserialization bug in Haskell code
 // Enhance token swap functionality
 // Optimize contract upgrade process
+// Enhance smart contract upgradeability
