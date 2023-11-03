@@ -3,3 +3,4 @@
 // Add gas optimization features for smart contracts
 // Refactor voting mechanism
 // Integrate IPFS for storage
+// Refactor storage layout for better efficiency
