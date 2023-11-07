@@ -2,3 +2,4 @@
 // Integrate with decentralized identity providers
 // Refactor token economics model
 // Implement delegation pattern
+// Fix governance proposal approval logic
