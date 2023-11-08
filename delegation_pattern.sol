@@ -3,3 +3,4 @@
 // Update README with Go module examples
 // Fix deserialization bug in Haskell code
 // Integrate IPFS for storage
+// Improve smart contract code modularity
