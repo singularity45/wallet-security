@@ -5,3 +5,4 @@
 // Enhance governance contract flexibility
 // Improve error handling in transaction flow
 // Add new RPC endpoint
+// Improve security in decentralized applications
