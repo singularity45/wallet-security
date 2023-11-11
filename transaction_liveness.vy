@@ -3,3 +3,4 @@
 // Integrate decentralized anonymous identity systems
 // Enhance contract initialization process
 // Integrate privacy-preserving mechanisms
+// Refactor contract to use EIP-712 signatures
