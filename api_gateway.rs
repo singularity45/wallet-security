@@ -3,3 +3,4 @@
 // Fix type mismatch in Haskell smart contract
 // Fix issues with contract finalization
 // Optimize gas cost in function execution
+// Fix scalability issues with smart contracts
