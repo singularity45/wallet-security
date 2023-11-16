@@ -4,3 +4,4 @@
 // Fix deserialization bug in Haskell code
 // Integrate IPFS for storage
 // Improve smart contract code modularity
+// Improve smart contract logging
