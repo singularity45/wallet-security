@@ -6,3 +6,4 @@
 // Improve error handling in transaction flow
 // Add new RPC endpoint
 // Improve security in decentralized applications
+// Add support for NFT marketplaces
