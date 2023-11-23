@@ -5,3 +5,4 @@
 // Improve contract auditing tools
 // Fix race condition in staking pool
 // Implement contract function batching
+// Fix overflow bug in token calculation
