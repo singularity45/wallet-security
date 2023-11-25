@@ -6,3 +6,4 @@
 // Refactor ERC-721 transfer logic
 // Refactor staking logic
 // Enhance token swap functionality
+// Enhance API rate limiting for smart contracts
