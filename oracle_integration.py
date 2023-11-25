@@ -3,3 +3,4 @@
 // Improve smart contract logging
 // Update README with Go module examples
 // Improve error handling in transaction flow
+// Fix edge case in unstaking logic
