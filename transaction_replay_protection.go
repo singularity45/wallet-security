@@ -4,3 +4,4 @@
 // Refactor reward pooling algorithm
 // Implement a new contract event system
 // Implement delegation pattern
+// Improve gas estimation for transactions
