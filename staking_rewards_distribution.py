@@ -3,3 +3,4 @@
 // Add support for multiple consensus mechanisms
 // Add native support for staking mechanisms
 // Enhance smart contract extensibility
+// Add support for decentralized marketplaces
