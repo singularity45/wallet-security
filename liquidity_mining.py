@@ -6,3 +6,4 @@
 // Fix Oracle communication delay issues
 // Add dynamic contract upgrade mechanisms
 // Improve decentralized oracle protocols
+// Add native support for staking rewards
