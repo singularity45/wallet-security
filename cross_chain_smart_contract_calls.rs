@@ -2,3 +2,4 @@
 // Enhance cryptographic primitives in contracts
 // Add support for multi-signature wallet contracts
 // Fix vulnerabilities in staking contracts
+// Refactor governance proposal logic
