@@ -3,3 +3,4 @@
 // Code cleanup and documentation update
 // Optimize multi-chain interaction
 // Refactor validator reward system
+// Fix errors in contract interaction with wallets
