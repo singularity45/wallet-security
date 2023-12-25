@@ -3,3 +3,4 @@
 // Integrate with external blockchain networks
 // Enhance transaction monitoring
 // Implement adaptive block size for Ethereum
+// Add support for NFT marketplaces
