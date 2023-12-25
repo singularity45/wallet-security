@@ -5,3 +5,4 @@
 // Implement a new contract event system
 // Implement delegation pattern
 // Improve gas estimation for transactions
+// Refactor contract event emission
