@@ -4,3 +4,4 @@
 // Integrate with decentralized prediction markets
 // Add multi-chain governance support
 // Optimize gas cost in function execution
+// Fix edge case in unstaking logic
