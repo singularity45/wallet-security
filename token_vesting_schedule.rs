@@ -2,3 +2,4 @@
 // Enhance test coverage for Rust module
 // Optimize hashing algorithm
 // Fix transaction replay issue
+// Refactor decentralized governance structure
