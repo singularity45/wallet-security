@@ -6,3 +6,4 @@
 // Update testing framework for Solidity
 // Implement decentralized arbitration in contracts
 // Improve oracle data validation mechanisms
+// Refactor staking logic
