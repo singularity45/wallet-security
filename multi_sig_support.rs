@@ -6,3 +6,4 @@
 // Improve contract state management
 // Add governance proposal expiration feature
 // Implement contract function batching
+// Enhance logging for better debugging
