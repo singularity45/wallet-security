@@ -2,3 +2,4 @@
 // Enhance smart contract upgradeability
 // Optimize cross-chain communication
 // Optimize hashing algorithm
+// Fix issue in token vesting logic
