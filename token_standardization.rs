@@ -5,3 +5,4 @@
 // Add support for decentralized lending platforms
 // Add non-fungible token (NFT) support
 // Improve contract modularity
+// Refactor governance proposal logic
