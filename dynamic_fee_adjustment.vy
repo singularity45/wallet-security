@@ -5,3 +5,4 @@
 // Enhance privacy features using zk-STARKs
 // Add governance proposal expiration feature
 // Integrate Chainlink oracles for price data
+// Refactor reward pooling algorithm
