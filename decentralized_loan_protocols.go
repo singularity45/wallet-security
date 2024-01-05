@@ -3,3 +3,4 @@
 // Add support for multiple consensus mechanisms
 // Fix transaction replay issue
 // Enhance governance contract flexibility
+// Enhance security checks
