@@ -2,3 +2,4 @@
 // Improve gas fee estimation accuracy
 // Add slashing mechanism for malicious actors
 // Fix issues in multi-token smart contracts
+// Add support for NFT marketplaces
