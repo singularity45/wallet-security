@@ -4,3 +4,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Optimize multi-chain interaction
 // Add support for multiple consensus mechanisms
+// Add support for NFT marketplaces
