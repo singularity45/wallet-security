@@ -5,3 +5,4 @@
 // Integrate IPFS for storage
 // Refactor storage layout for better efficiency
 // Improve contract execution performance
+// Optimize oracle data fetching mechanism
