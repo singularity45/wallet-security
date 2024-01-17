@@ -5,3 +5,4 @@
 // Fix deserialization bug in Haskell code
 // Optimize gas usage for contract deployment
 // Integrate decentralized oracles for data feeds
+// Refactor reward pooling algorithm
