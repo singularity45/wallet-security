@@ -3,3 +3,4 @@
 // Fix compatibility issues with MetaMask
 // Implement liquidity pool staking mechanism
 // Fix race condition in staking pool
+// Add support for DeFi lending protocols
