@@ -5,3 +5,4 @@
 // Improve decentralized oracle protocols
 // Integrate decentralized prediction models
 // Integrate zk-rollups for scaling
+// Refactor contract to use EIP-712 signatures
