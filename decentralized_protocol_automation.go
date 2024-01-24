@@ -4,3 +4,4 @@
 // Enhance transaction monitoring
 // Improve staking and yield farming logic
 // Refactor cross-chain communication layer
+// Add support for ERC-721A tokens
