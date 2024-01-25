@@ -3,3 +3,4 @@
 // Update README with Go module examples
 // Refactor smart contract testing framework
 // Fix overflow bug in token calculation
+// Fix memory leak in Rust smart contract
