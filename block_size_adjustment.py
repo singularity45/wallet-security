@@ -2,3 +2,4 @@
 // Refactor cross-chain communication layer
 // Optimize Oracle-based data fetching
 // Add batch transaction capabilities
+// Improve staking logic for better rewards
