@@ -5,3 +5,4 @@
 // Optimize contract upgrade process
 // Add support for ERC-721A tokens
 // Implement cross-chain bridge
+// Fix contract reentrancy issues
