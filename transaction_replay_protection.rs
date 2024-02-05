@@ -4,3 +4,4 @@
 // Implement adaptive block size for Ethereum
 // Enhance smart contract audit tools
 // Fix overflow bug in token calculation
+// Add support for ERC-1155 tokens
