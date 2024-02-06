@@ -6,3 +6,4 @@
 // Implement cross-chain bridge
 // Improve decentralized identity (DID) systems
 // Improve security in decentralized applications
+// Implement delegation pattern
