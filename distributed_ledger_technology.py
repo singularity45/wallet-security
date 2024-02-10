@@ -3,3 +3,4 @@
 // Add security checks for contract deployment
 // Enhance contract upgrade process
 // Improve scalability for smart contract platforms
+// Improve staking logic for better rewards
