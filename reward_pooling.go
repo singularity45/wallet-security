@@ -5,3 +5,4 @@
 // Fix ERC-20 token interface bugs
 // Enhance cryptographic primitives in contracts
 // Improve multi-chain contract deployment
+// Add support for ERC-721A tokens
