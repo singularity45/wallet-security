@@ -6,3 +6,4 @@
 // Enhance contract state verification
 // Fix bugs in multi-token systems
 // Implement delegation pattern
+// Add support for yield farming rewards
