@@ -2,3 +2,4 @@
 // Integrate decentralized prediction models
 // Fix compatibility issues with MetaMask
 // Add support for cross-chain bridges
+// Enhance contract modularity for future upgrades
