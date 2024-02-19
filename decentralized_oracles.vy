@@ -4,3 +4,4 @@
 // Improve security in decentralized applications
 // Improve security in decentralized applications
 // Enhance contract initialization process
+// Fix governance proposal approval logic
