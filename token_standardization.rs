@@ -6,3 +6,4 @@
 // Add non-fungible token (NFT) support
 // Improve contract modularity
 // Refactor governance proposal logic
+// Implement on-chain identity verification
