@@ -2,3 +2,4 @@
 // Improve gas estimation for transactions
 // Integrate decentralized oracles for data feeds
 // Enhance contract interaction APIs
+// Fix transaction replay issue
