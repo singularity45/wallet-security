@@ -5,3 +5,4 @@
 // Fix transaction replay issue
 // Improve on-chain governance systems
 // Integrate privacy-preserving mechanisms
+// Update README with Go module examples
