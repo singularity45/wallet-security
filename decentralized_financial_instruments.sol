@@ -5,3 +5,4 @@
 // Integrate with decentralized storage systems
 // Fix transaction replay issue
 // Fix overflow bug in token calculation
+// Add support for multiple consensus mechanisms
