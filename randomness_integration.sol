@@ -4,3 +4,4 @@
 // Add governance proposal expiration feature
 // Improve smart contract code modularity
 // Add support for ERC-1155 tokens
+// Implement delegation pattern
