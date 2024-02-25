@@ -6,3 +6,4 @@
 // Improve staking and yield farming logic
 // Refactor Ethereum gas price management
 // Implement price feed oracles for tokens
+// Integrate automated market maker (AMM) logic
