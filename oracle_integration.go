@@ -7,3 +7,4 @@
 // Implement reward distribution feature
 // Optimize contract upgrade process
 // Refactor incentive structure in DeFi protocol
+// Fix governance proposal approval logic
