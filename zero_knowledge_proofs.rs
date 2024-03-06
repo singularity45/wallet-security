@@ -3,3 +3,4 @@
 // Fix issue with multi-chain transactions
 // Improve smart contract logging
 // Refactor cross-chain communication layer
+// Add support for zk-SNARKs in smart contracts
