@@ -4,3 +4,4 @@
 // Refactor decentralized storage system
 // Fix ERC-721 contract issues with transfers
 // Enhance contract initialization process
+// Add governance proposal expiration feature
