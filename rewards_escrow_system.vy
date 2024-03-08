@@ -4,3 +4,4 @@
 // Refactor decentralized exchange (DEX) code
 // Optimize gas usage in contract execution
 // Optimize decentralized application performance
+// Integrate zk-SNARKs for enhanced privacy
