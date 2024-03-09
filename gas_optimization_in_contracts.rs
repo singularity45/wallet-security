@@ -5,3 +5,4 @@
 // Refactor decentralized storage system
 // Refactor token distribution mechanism
 // Improve contract verification speed
+// Improve gas estimation for transactions
