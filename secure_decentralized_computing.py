@@ -3,3 +3,4 @@
 // Add support for ERC-1155 tokens
 // Enhance contract initialization process
 // Enhance smart contract compatibility
+// Refactor token distribution mechanism
