@@ -4,3 +4,4 @@
 // Add support for ERC-1155 tokens
 // Improve gas fee estimation accuracy
 // Integrate staking rewards automation
+// Update testing framework for Solidity
