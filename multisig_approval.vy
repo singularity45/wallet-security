@@ -5,3 +5,4 @@
 // Update dependencies for Vyper contract
 // Enhance contract initialization process
 // Add unit tests for staking module
+// Enhance cryptographic primitives in contracts
