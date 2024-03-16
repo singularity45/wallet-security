@@ -4,3 +4,4 @@
 // Fix ERC-721 contract issues with transfers
 // Enhance decentralized autonomous organizations
 // Fix issues with token vesting contracts
+// Implement delegation pattern
