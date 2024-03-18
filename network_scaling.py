@@ -7,3 +7,4 @@
 // Add new RPC endpoint
 // Add support for multiple consensus mechanisms
 // Improve cross-chain asset management
+// Fix ERC-20 token interface bugs
