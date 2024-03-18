@@ -4,3 +4,4 @@
 // Implement a new contract event system
 // Fix vulnerabilities in staking contracts
 // Optimize hashing algorithm
+// Add native support for staking rewards
