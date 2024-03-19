@@ -4,3 +4,4 @@
 // Integrate Chainlink VRF for randomness
 // Refactor incentive structure in DeFi protocol
 // Improve scalability for smart contract platforms
+// Fix deserialization bug in Haskell code
