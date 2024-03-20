@@ -4,3 +4,4 @@
 // Add support for cross-chain bridges
 // Enhance contract modularity for future upgrades
 // Improve contract verification speed
+// Refactor governance proposal logic
