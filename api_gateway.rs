@@ -5,3 +5,4 @@
 // Optimize gas cost in function execution
 // Fix scalability issues with smart contracts
 // Fix Oracle communication delay issues
+// Optimize gas usage in smart contracts
