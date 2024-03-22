@@ -2,3 +2,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Fix deserialization bug in Haskell code
 // Bugfix: incorrect reward calculation
+// Enhance smart contract compatibility
