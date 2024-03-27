@@ -8,3 +8,4 @@
 // Refactor contract to use EIP-712 signatures
 // Implement decentralized arbitration in contracts
 // Implement contract function batching
+// Improve contract interaction via APIs
