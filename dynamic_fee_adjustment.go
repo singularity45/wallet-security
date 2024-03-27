@@ -3,3 +3,4 @@
 // Optimize gas usage in smart contracts
 // Add gas optimization features for smart contracts
 // Refactor wallet interaction logic
+// Improve staking logic for better rewards
