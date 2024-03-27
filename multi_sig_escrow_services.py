@@ -3,3 +3,4 @@
 // Implement time-locked contract execution
 // Fix bugs in multi-token systems
 // Improve contract state management
+// Bugfix: incorrect reward calculation
