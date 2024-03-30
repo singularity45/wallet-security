@@ -3,3 +3,4 @@
 // Fix compatibility issues with major wallets
 // Refactor voting mechanism
 // Add automated smart contract testing
+// Integrate decentralized prediction models
