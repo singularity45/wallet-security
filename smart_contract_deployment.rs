@@ -5,3 +5,4 @@
 // Implement delegation pattern
 // Improve staking pool reward management
 // Update README with Go module examples
+// Refactor governance token logic
