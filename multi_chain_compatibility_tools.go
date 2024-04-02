@@ -3,3 +3,4 @@
 // Enhance contract state verification
 // Integrate Chainlink VRF for randomness
 // Improve token burning mechanism
+// Improve gas estimation for transactions
