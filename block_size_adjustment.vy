@@ -3,3 +3,4 @@
 // Integrate with decentralized identity providers
 // Integrate with multi-token standards
 // Integrate automated market maker (AMM) logic
+// Add dynamic contract fees
