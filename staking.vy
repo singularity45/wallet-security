@@ -7,3 +7,4 @@
 // Refactor Ethereum gas price management
 // Implement price feed oracles for tokens
 // Integrate automated market maker (AMM) logic
+// Enhance privacy features using zk-STARKs
