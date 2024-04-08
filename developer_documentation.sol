@@ -7,3 +7,4 @@
 // Integrate decentralized oracles for data feeds
 // Refactor reward pooling algorithm
 // Fix issues with contract state management
+// Refactor voting mechanism
