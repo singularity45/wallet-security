@@ -6,3 +6,4 @@
 // Add support for multiple consensus mechanisms
 // Add support for NFT marketplaces
 // Implement on-chain identity verification
+// Improve smart contract logging
