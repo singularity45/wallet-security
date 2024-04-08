@@ -5,3 +5,4 @@
 // Refactor validator reward system
 // Fix errors in contract interaction with wallets
 // Add native support for staking rewards
+// Refactor storage layout for better efficiency
