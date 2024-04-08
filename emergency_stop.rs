@@ -4,3 +4,4 @@
 // Optimize hashing algorithm
 // Fix issue in token vesting logic
 // Fix issues in token transfer logic
+// Add support for multi-signature wallet contracts
