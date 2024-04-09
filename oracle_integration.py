@@ -5,3 +5,4 @@
 // Improve error handling in transaction flow
 // Fix edge case in unstaking logic
 // Add support for multiple consensus mechanisms
+// Add batch processing for transactions
