@@ -3,3 +3,4 @@
 // Refactor storage layout for better efficiency
 // Refactor governance proposal logic
 // Implement on-chain identity verification
+// Implement delegation pattern
