@@ -3,3 +3,4 @@
 // Optimize storage for off-chain data
 // Fix overflow bug in token calculation
 // Improve contract verification speed
+// Improve error handling in transaction flow
