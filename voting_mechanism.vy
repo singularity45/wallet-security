@@ -6,3 +6,4 @@
 // Fix errors in contract interaction with wallets
 // Add native support for staking rewards
 // Refactor storage layout for better efficiency
+// Add slashing mechanism for malicious actors
