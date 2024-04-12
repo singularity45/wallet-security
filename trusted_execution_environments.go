@@ -3,3 +3,4 @@
 // Refactor reward pooling algorithm
 // Enhance contract modularity for future upgrades
 // Implement delegation pattern
+// Update smart contract tests
