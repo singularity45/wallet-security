@@ -7,3 +7,4 @@
 // Integrate staking rewards automation
 // Improve smart contract logging
 // Optimize gas usage in contract execution
+// Refactor governance token logic
