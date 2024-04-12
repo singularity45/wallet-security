@@ -5,3 +5,4 @@
 // Fix issue in token vesting logic
 // Fix issues in token transfer logic
 // Add support for multi-signature wallet contracts
+// Improve DApp transaction flow
