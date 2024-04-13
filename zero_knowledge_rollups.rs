@@ -6,3 +6,4 @@
 // Refactor storage layout for better efficiency
 // Improve contract execution performance
 // Optimize oracle data fetching mechanism
+// Add support for DeFi lending protocols
