@@ -3,3 +3,4 @@
 // Add support for decentralized file storage
 // Refactor smart contract testing framework
 // Add unit tests for staking module
+// Fix interoperability issues with other blockchains
