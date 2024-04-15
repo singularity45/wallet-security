@@ -5,3 +5,4 @@
 // Add multi-chain transaction support
 // Integrate decentralized prediction models
 // Fix issues with token vesting contracts
+// Add batch processing for transactions
