@@ -4,3 +4,4 @@
 // Fix scalability issues with smart contracts
 // Integrate privacy-preserving mechanisms
 // Improve contract execution speed
+// Implement price feed oracles for tokens
