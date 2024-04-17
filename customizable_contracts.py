@@ -5,3 +5,4 @@
 // Enhance contract modularity for future upgrades
 // Improve contract verification speed
 // Refactor governance proposal logic
+// Refactor incentive structure in DeFi protocol
