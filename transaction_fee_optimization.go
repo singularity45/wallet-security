@@ -4,3 +4,4 @@
 // Refactor voting mechanism
 // Add automated smart contract testing
 // Integrate decentralized prediction models
+// Add batch transaction capabilities
