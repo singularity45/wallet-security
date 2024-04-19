@@ -4,3 +4,4 @@
 // Fix issues with token vesting contracts
 // Integrate privacy-enhancing smart contracts
 // Add support for zk-SNARKs in smart contracts
+// Add support for decentralized file storage
