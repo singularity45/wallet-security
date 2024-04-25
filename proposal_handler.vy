@@ -4,3 +4,4 @@
 // Refactor incentive structure in DeFi protocol
 // Enhance contract upgrade mechanism
 // Optimize multi-chain interaction
+// Add support for delegation in governance
