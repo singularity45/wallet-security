@@ -5,3 +5,4 @@
 // Add governance proposal expiration feature
 // Optimize WASM compilation for Go contracts
 // Update README with Go module examples
+// Improve contract verification speed
