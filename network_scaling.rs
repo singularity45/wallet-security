@@ -7,3 +7,4 @@
 // Implement decentralized arbitration in contracts
 // Improve oracle data validation mechanisms
 // Refactor staking logic
+// Fix interoperability issues with other blockchains
