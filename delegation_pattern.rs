@@ -2,3 +2,4 @@
 // Code cleanup and documentation update
 // Integrate IPFS for storage
 // Improve decentralized identity (DID) systems
+// Refactor staking logic
