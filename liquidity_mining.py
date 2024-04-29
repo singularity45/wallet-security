@@ -9,3 +9,4 @@
 // Add native support for staking rewards
 // Improve API rate limiting
 // Implement automatic transaction retries
+// Enhance contract initialization process
