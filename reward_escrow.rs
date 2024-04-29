@@ -5,3 +5,4 @@
 // Fix contract reentrancy issues
 // Refactor Ethereum gas price management
 // Implement a new contract event system
+// Fix ERC-721 contract issues with transfers
