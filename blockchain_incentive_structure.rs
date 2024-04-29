@@ -4,3 +4,4 @@
 // Add support for ERC-1155 tokens
 // Integrate zk-rollups for scaling
 // Integrate Chainlink oracles
+// Fix contract reentrancy issues
