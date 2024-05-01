@@ -3,3 +3,4 @@
 // Refactor voting mechanism
 // Fix wallet interaction issues in DeFi protocols
 // Improve staking logic for better rewards
+// Implement on-chain identity verification
