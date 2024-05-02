@@ -4,3 +4,4 @@
 // Improve contract interaction via APIs
 // Add multi-chain governance support
 // Fix issues in token transfer logic
+// Refactor staking logic
