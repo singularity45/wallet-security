@@ -4,3 +4,4 @@
 // Optimize gas cost in function execution
 // Optimize cross-chain bridging mechanisms
 // Add new RPC endpoint
+// Add multi-sig wallet functionality
