@@ -6,3 +6,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Enhance test coverage for Rust module
 // Fix wallet interaction issues in DeFi protocols
+// Refactor smart contract testing framework
