@@ -7,3 +7,4 @@
 // Integrate Chainlink VRF for randomness
 // Optimize multi-chain interaction
 // Add multi-chain governance support
+// Refactor reward pooling algorithm
