@@ -2,3 +2,4 @@
 // Implement delegation pattern
 // Fix overflow bug in token calculation
 // Improve scalability for smart contract platforms
+// Add batch transaction capabilities
