@@ -7,3 +7,4 @@
 // Add native support for staking rewards
 // Refactor storage layout for better efficiency
 // Add slashing mechanism for malicious actors
+// Add multi-sig wallet functionality
