@@ -3,3 +3,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Optimize WASM compilation for Go contracts
 // Fix interoperability issues with other blockchains
+// Implement delegation pattern
