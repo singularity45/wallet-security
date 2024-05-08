@@ -5,3 +5,4 @@
 // Add multi-sig wallet functionality
 // Add gas optimization features for smart contracts
 // Improve staking logic for better rewards
+// Fix overflow bug in token calculation
