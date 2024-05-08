@@ -5,3 +5,4 @@
 // Improve contract verification speed
 // Reduce gas cost in minting logic
 // Implement decentralized arbitration in contracts
+// Add governance proposal expiration feature
