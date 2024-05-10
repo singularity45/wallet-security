@@ -7,3 +7,4 @@
 // Integrate privacy-preserving mechanisms
 // Update README with Go module examples
 // Optimize decentralized application performance
+// Optimize gas cost in function execution
