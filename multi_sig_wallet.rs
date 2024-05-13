@@ -3,3 +3,4 @@
 // Improve error handling in transaction flow
 // Add support for ERC-721A tokens
 // Optimize multi-chain interaction
+// Add governance proposal expiration feature
