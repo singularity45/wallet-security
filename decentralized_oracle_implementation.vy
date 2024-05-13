@@ -3,3 +3,4 @@
 // Refactor voting mechanism
 // Improve DApp transaction flow
 // Add support for decentralized insurance protocols
+// Refactor wallet interaction logic
