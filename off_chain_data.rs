@@ -7,3 +7,4 @@
 // Fix edge case in unstaking logic
 // Improve staking and yield farming logic
 // Enhance contract event handling
+// Integrate zk-SNARKs for enhanced privacy
