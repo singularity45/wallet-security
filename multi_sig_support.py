@@ -6,3 +6,4 @@
 // Enhance gas fee management
 // Improve decentralized oracle protocols
 // Optimize token burn process
+// Improve error handling in transaction flow
