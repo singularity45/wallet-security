@@ -5,3 +5,4 @@
 // Add automated smart contract testing
 // Improve multi-chain transaction processing
 // Add gas optimization features for smart contracts
+// Add support for delegation in governance
