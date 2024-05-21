@@ -4,3 +4,4 @@
 // Fix data consistency issues in smart contracts
 // Fix edge case in unstaking logic
 // Fix overflow bug in token calculation
+// Reduce gas cost in minting logic
