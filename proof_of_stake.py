@@ -6,3 +6,4 @@
 // Fix oracle data delays in decentralized apps
 // Enhance governance contract flexibility
 // Fix overflow bug in token calculation
+// Integrate Chainlink oracles
