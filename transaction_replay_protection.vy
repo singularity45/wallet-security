@@ -3,3 +3,4 @@
 // Optimize hashing algorithm
 // Fix security vulnerability in random number generation
 // Enhance cryptographic primitives in contracts
+// Add slashing mechanism for malicious actors
