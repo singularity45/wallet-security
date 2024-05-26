@@ -5,3 +5,4 @@
 // Add batch transaction capabilities
 // Enhance contract modularity
 // Add decentralized contract upgradeability
+// Enhance logging for better debugging
