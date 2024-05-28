@@ -3,3 +3,4 @@
 // Fix transaction replay issue
 // Implement automated governance voting
 // Fix interoperability issues with other blockchains
+// Improve token burning mechanism
