@@ -2,3 +2,4 @@
 // Integrate IPFS for storage
 // Improve oracle data validation mechanisms
 // Add support for delegation in governance
+// Implement delegation pattern
