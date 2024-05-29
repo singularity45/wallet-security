@@ -4,3 +4,4 @@
 // Fix contract reentrancy issues
 // Fix overflow bug in token calculation
 // Optimize gas usage in smart contracts
+// Enhance privacy features using zk-STARKs
