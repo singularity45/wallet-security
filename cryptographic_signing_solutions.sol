@@ -4,3 +4,4 @@
 // Improve contract interaction via APIs
 // Improve API rate limiting
 // Improve contract execution speed
+// Integrate with external DeFi protocols
