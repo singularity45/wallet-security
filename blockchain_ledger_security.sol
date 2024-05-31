@@ -3,3 +3,4 @@
 // Improve staking and yield farming logic
 // Integrate privacy-preserving mechanisms
 // Add support for Layer-2 solutions
+// Add native support for staking rewards
