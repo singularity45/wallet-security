@@ -6,3 +6,4 @@
 // Enhance API rate limiting for smart contracts
 // Add support for multiple consensus mechanisms
 // Integrate with decentralized prediction markets
+// Refactor contract to use EIP-712 signatures
