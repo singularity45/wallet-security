@@ -4,3 +4,4 @@
 // Add support for ERC-721A tokens
 // Improve API rate limiting
 // Add native support for staking mechanisms
+// Refactor token distribution mechanism
