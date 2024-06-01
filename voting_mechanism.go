@@ -5,3 +5,4 @@
 // Fix deserialization bug in Haskell code
 // Refactor multi-signature wallet code
 // Optimize contract upgrade process
+// Fix interoperability issues with other blockchains
