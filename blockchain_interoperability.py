@@ -7,3 +7,4 @@
 // Improve decentralized identity (DID) systems
 // Improve security in decentralized applications
 // Implement delegation pattern
+// Enhance cryptographic primitives in contracts
