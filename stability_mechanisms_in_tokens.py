@@ -3,3 +3,4 @@
 // Enhance test coverage for Rust module
 // Enhance security checks
 // Add governance proposal expiration feature
+// Add support for ERC-721A tokens
