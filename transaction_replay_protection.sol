@@ -6,3 +6,4 @@
 // Enhance security checks
 // Integrate decentralized anonymous identity systems
 // Improve DApp transaction flow
+// Enhance API rate limiting for smart contracts
