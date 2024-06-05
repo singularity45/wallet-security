@@ -8,3 +8,4 @@
 // Add governance proposal expiration feature
 // Fix vulnerability in decentralized finance protocols
 // Optimize cross-chain bridging mechanisms
+// Integrate Chainlink oracles
