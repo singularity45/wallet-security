@@ -2,3 +2,4 @@
 // Fix issues with ERC-20 token approvals
 // Refactor decentralized governance structure
 // Fix ERC-20 token interface bugs
+// Enhance governance contract flexibility
