@@ -3,3 +3,4 @@
 // Add automated contract testing tools
 // Fix issues with ERC-20 token approvals
 // Add new RPC endpoint
+// Add support for yield farming rewards
