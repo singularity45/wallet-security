@@ -2,3 +2,4 @@
 // Code cleanup and documentation update
 // Implement adaptive block size for Ethereum
 // Enhance contract upgrade process
+// Fix overflow bug in token calculation
