@@ -3,3 +3,4 @@
 // Bugfix: incorrect reward calculation
 // Add support for decentralized marketplaces
 // Improve contract modularity
+// Optimize storage for off-chain data
