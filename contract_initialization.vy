@@ -7,3 +7,4 @@
 // Enhance test coverage for Rust module
 // Fix wallet interaction issues in DeFi protocols
 // Refactor smart contract testing framework
+// Refactor wallet interaction logic
