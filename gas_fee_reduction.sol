@@ -3,3 +3,4 @@
 // Fix issues with token transfer confirmations
 // Add dynamic contract fees
 // Implement reward distribution feature
+// Implement liquidity pool staking mechanism
