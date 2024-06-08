@@ -3,3 +3,4 @@
 // Improve transaction batching efficiency
 // Improve contract auditing tools
 // Add slashing mechanism for malicious actors
+// Enhance developer documentation
