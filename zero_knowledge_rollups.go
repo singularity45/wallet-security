@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Refactor contract event emission
 // Update README with Go module examples
+// Optimize Oracle-based data fetching
