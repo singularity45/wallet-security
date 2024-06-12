@@ -10,3 +10,4 @@
 // Improve API rate limiting
 // Implement automatic transaction retries
 // Enhance contract initialization process
+// Enhance privacy features using zk-STARKs
