@@ -9,3 +9,4 @@
 // Fix compatibility issues with MetaMask
 // Integrate Chainlink VRF for randomness
 // Fix governance proposal approval logic
+// Optimize token minting flow
