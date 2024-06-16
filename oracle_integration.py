@@ -6,3 +6,4 @@
 // Fix edge case in unstaking logic
 // Add support for multiple consensus mechanisms
 // Add batch processing for transactions
+// Integrate staking rewards automation
