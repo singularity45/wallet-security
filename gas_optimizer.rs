@@ -5,3 +5,4 @@
 // Fix overflow bug in token calculation
 // Fix memory leak in Rust smart contract
 // Refactor decentralized storage system
+// Add slashing mechanism for malicious actors
