@@ -6,3 +6,4 @@
 // Refactor smart contract testing framework
 // Improve contract modularity
 // Fix security vulnerability in random number generation
+// Improve on-chain governance systems
