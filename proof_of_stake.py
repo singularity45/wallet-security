@@ -7,3 +7,4 @@
 // Enhance governance contract flexibility
 // Fix overflow bug in token calculation
 // Integrate Chainlink oracles
+// Fix scalability issues with smart contracts
