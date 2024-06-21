@@ -4,3 +4,4 @@
 // Fix issues with ERC-20 token approvals
 // Fix issues with gas optimization in smart contracts
 // Fix issues in multi-token smart contracts
+// Integrate zk-rollups for scaling
