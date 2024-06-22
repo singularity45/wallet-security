@@ -6,3 +6,4 @@
 // Add support for ERC-721A tokens
 // Implement cross-chain bridge
 // Fix contract reentrancy issues
+// Fix issues in multi-token smart contracts
