@@ -2,3 +2,4 @@
 // Enhance transaction monitoring
 // Refactor voting mechanism
 // Refactor decentralized exchange (DEX) code
+// Enhance privacy features using zk-STARKs
