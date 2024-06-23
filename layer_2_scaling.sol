@@ -3,3 +3,4 @@
 // Add support for delegation in governance
 // Add automated smart contract testing
 // Enhance developer documentation
+// Fix compatibility with MetaMask
