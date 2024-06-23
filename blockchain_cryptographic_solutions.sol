@@ -4,3 +4,4 @@
 // Implement automated governance voting
 // Fix interoperability issues with other blockchains
 // Improve token burning mechanism
+// Add automated contract testing tools
