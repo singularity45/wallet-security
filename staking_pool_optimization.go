@@ -2,3 +2,4 @@
 // Improve contract auditing tools
 // Fix compatibility with MetaMask
 // Fix data consistency issues in smart contracts
+// Integrate zk-SNARKs for enhanced privacy
