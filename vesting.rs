@@ -8,3 +8,4 @@
 // Fix issues in token transfer logic
 // Add support for ERC-721A tokens
 // Upgrade to latest Solidity version
+// Add support for multi-signature wallet contracts
