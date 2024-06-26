@@ -3,3 +3,4 @@
 // Integrate with decentralized prediction markets
 // Improve staking logic for better rewards
 // Enhance developer documentation
+// Add unit tests for staking module
