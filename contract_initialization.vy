@@ -8,3 +8,4 @@
 // Fix wallet interaction issues in DeFi protocols
 // Refactor smart contract testing framework
 // Refactor wallet interaction logic
+// Add governance proposal expiration feature
