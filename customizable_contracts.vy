@@ -4,3 +4,4 @@
 // Enhance smart contract extensibility
 // Integrate with multi-token standards
 // Refactor wallet interaction logic
+// Refactor reward pooling algorithm
