@@ -2,3 +2,4 @@
 // Add multi-chain transaction support
 // Refactor governance token logic
 // Refactor decentralized storage system
+// Fix compatibility with MetaMask
