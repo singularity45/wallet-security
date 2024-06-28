@@ -5,3 +5,4 @@
 // Enhance privacy features using zk-STARKs
 // Implement decentralized arbitration in contracts
 // Fix issue in token vesting logic
+// Integrate decentralized oracles for data feeds
