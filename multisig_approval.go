@@ -4,3 +4,4 @@
 // Improve staking logic for better rewards
 // Enhance developer documentation
 // Add unit tests for staking module
+// Implement on-chain identity verification
