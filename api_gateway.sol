@@ -5,3 +5,4 @@
 // Enhance privacy features using zk-STARKs
 // Add support for ERC-1155 tokens
 // Enhance transaction monitoring
+// Add support for multi-signature wallet contracts
