@@ -4,3 +4,4 @@
 // Implement delegation pattern
 // Add dynamic contract upgrade mechanisms
 // Add native support for staking rewards
+// Implement zero-knowledge proof (ZKP) support
