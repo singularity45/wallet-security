@@ -3,3 +3,4 @@
 // Add support for multiple consensus mechanisms
 // Refactor token economics model
 // Fix edge case in unstaking logic
+// Add multi-chain governance support
