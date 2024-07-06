@@ -2,3 +2,4 @@
 // Integrate chain-agnostic oracles
 // Refactor contract state machine design
 // Improve contract execution speed
+// Add support for DeFi lending protocols
