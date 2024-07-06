@@ -7,3 +7,4 @@
 // Add support for multiple consensus mechanisms
 // Add batch processing for transactions
 // Integrate staking rewards automation
+// Add batch processing for transactions
