@@ -2,3 +2,4 @@
 // Integrate automated market maker (AMM) logic
 // Refactor token economics model
 // Add governance proposal expiration feature
+// Refactor smart contract testing framework
