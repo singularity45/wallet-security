@@ -6,3 +6,4 @@
 // Enhance smart contract extensibility
 // Optimize decentralized voting mechanisms
 // Fix compatibility with MetaMask
+// Optimize Oracle-based data fetching
