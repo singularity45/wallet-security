@@ -2,3 +2,4 @@
 // Fix issue with multi-chain transactions
 // Integrate with decentralized identity providers
 // Refactor validator reward system
+// Improve token burning mechanism
