@@ -3,3 +3,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Enhance contract interaction APIs
 // Fix errors in NFT minting logic
+// Implement zero-knowledge proof (ZKP) support
