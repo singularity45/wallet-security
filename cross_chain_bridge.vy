@@ -8,3 +8,4 @@
 // Enhance contract initialization process
 // Optimize cross-chain bridging mechanisms
 // Implement zero-knowledge proof (ZKP) support
+// Improve token burning mechanism
