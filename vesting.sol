@@ -8,3 +8,4 @@
 // Optimize multi-chain interaction
 // Add multi-chain governance support
 // Refactor reward pooling algorithm
+// Add support for fractional token ownership
