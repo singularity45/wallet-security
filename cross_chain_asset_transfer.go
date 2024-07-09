@@ -3,3 +3,4 @@
 // Enhance governance contract flexibility
 // Improve staking pool reward management
 // Add fallback mechanism in Solidity contract
+// Refactor staking logic
