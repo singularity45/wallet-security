@@ -4,3 +4,4 @@
 // Improve smart contract code modularity
 // Optimize contract storage for gas reduction
 // Refactor Ethereum gas price management
+// Add support for zk-SNARKs in smart contracts
