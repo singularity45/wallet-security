@@ -3,3 +3,4 @@
 // Improve contract execution performance
 // Refactor governance proposal logic
 // Optimize hashing algorithm
+// Optimize storage for off-chain data
