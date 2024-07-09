@@ -7,3 +7,4 @@
 // Add support for multi-signature wallet contracts
 // Improve DApp transaction flow
 // Implement automatic transaction retries
+// Fix issues with cross-chain transaction finality
