@@ -4,3 +4,4 @@
 // Enhance gas fee management
 // Refactor smart contract testing framework
 // Enhance contract interaction APIs
+// Implement zero-knowledge proof (ZKP) support
