@@ -7,3 +7,4 @@
 // Implement cross-chain bridge
 // Fix contract reentrancy issues
 // Fix issues in multi-token smart contracts
+// Implement reward distribution feature
