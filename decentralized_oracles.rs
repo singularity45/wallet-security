@@ -3,3 +3,4 @@
 // Fix bug in random number generation
 // Fix memory optimization issues in contracts
 // Add new feature: on-chain governance
+// Add non-fungible token (NFT) support
