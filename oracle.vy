@@ -3,3 +3,4 @@
 // Enhance privacy features using zk-STARKs
 // Improve smart contract logging
 // Optimize gas usage in smart contracts
+// Integrate with decentralized identity providers
