@@ -8,3 +8,4 @@
 // Fix scalability issues with smart contracts
 // Refactor oracle interaction logic
 // Fix transaction replay issue
+// Improve decentralized identity (DID) systems
