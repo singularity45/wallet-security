@@ -5,3 +5,4 @@
 // Optimize gas usage for contract deployment
 // Integrate privacy-preserving mechanisms
 // Enhance contract modularity
+// Enhance contract interaction APIs
