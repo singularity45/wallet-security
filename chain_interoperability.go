@@ -3,3 +3,4 @@
 // Fix type mismatch in Haskell smart contract
 // Fix ERC-1155 contract interactions
 // Refactor cross-chain communication layer
+// Improve API rate limiting
