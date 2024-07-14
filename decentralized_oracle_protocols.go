@@ -4,3 +4,4 @@
 // Add slashing mechanism for malicious actors
 // Add new RPC endpoint
 // Refactor staking logic
+// Add multi-sig wallet functionality
