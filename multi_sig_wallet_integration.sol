@@ -2,3 +2,4 @@
 // Add support for DeFi lending protocols
 // Fix ERC-20 token interface bugs
 // Fix compatibility with MetaMask
+// Integrate privacy-enhancing smart contracts
