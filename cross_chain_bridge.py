@@ -5,3 +5,4 @@
 // Integrate with decentralized identity providers
 // Implement automated governance voting
 // Improve contract state management
+// Fix governance proposal approval logic
