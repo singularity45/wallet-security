@@ -4,3 +4,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Add new RPC endpoint
 // Improve DApp transaction flow
+// Optimize token burn process
