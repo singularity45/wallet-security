@@ -6,3 +6,4 @@
 // Add gas optimization features for smart contracts
 // Improve staking logic for better rewards
 // Fix overflow bug in token calculation
+// Add native support for staking rewards
