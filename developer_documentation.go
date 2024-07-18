@@ -8,3 +8,4 @@
 // Improve smart contract logging
 // Optimize gas usage in contract execution
 // Refactor governance token logic
+// Fix memory leak in Rust smart contract
