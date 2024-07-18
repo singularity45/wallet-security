@@ -3,3 +3,4 @@
 // Enhance governance contract flexibility
 // Enhance test coverage for Rust module
 // Integrate zk-SNARKs for enhanced privacy
+// Add support for DeFi lending protocols
