@@ -8,3 +8,4 @@
 // Fix ERC-721 contract issues with transfers
 // Improve contract execution speed
 // Improve smart contract logging
+// Improve on-chain governance systems
