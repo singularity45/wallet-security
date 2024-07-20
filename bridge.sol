@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Add support for decentralized auctions
 // Fix race condition in staking pool
+// Integrate with decentralized identity providers
