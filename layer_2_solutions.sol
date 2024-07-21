@@ -4,3 +4,4 @@
 // Fix issues with token vesting contracts
 // Improve staking logic for better rewards
 // Integrate with decentralized identity providers
+// Integrate Chainlink oracles
