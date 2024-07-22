@@ -4,3 +4,4 @@
 // Improve smart contract code modularity
 // Integrate automated market maker (AMM) logic
 // Refactor oracle interaction logic
+// Refactor incentive structure in DeFi protocol
