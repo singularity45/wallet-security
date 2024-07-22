@@ -8,3 +8,4 @@
 // Improve DApp transaction flow
 // Implement automatic transaction retries
 // Fix issues with cross-chain transaction finality
+// Implement zero-knowledge proof (ZKP) support
