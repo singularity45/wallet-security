@@ -3,3 +3,4 @@
 // Implement liquidity pool staking mechanism
 // Optimize gas cost in function execution
 // Enhance privacy features using zk-STARKs
+// Improve DApp transaction flow
