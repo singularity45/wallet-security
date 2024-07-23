@@ -12,3 +12,4 @@
 // Enhance contract initialization process
 // Enhance privacy features using zk-STARKs
 // Optimize contract storage for gas reduction
+// Add support for cross-chain bridges
