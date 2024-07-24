@@ -6,3 +6,4 @@
 // Fix issues with token vesting contracts
 // Implement delegation pattern
 // Optimize gas cost in function execution
+// Add multi-chain transaction support
