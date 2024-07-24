@@ -3,3 +3,4 @@
 // Add support for yield farming rewards
 // Optimize token minting flow
 // Fix compatibility with MetaMask
+// Implement zero-knowledge proof (ZKP) support
