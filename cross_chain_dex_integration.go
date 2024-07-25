@@ -2,3 +2,4 @@
 // Add support for decentralized file storage
 // Integrate IPFS for storage
 // Refactor voting mechanism
+// Refactor decentralized storage system
