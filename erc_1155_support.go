@@ -3,3 +3,4 @@
 // Add slashing mechanism for malicious actors
 // Fix issues in multi-token smart contracts
 // Add support for NFT marketplaces
+// Refactor validator reward system
