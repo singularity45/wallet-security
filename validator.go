@@ -6,3 +6,4 @@
 // Add native support for staking mechanisms
 // Refactor token distribution mechanism
 // Improve contract state management
+// Add support for multiple consensus mechanisms
