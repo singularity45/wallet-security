@@ -2,3 +2,4 @@
 // Add support for delegation in governance
 // Improve decentralized identity (DID) systems
 // Improve multi-chain transaction processing
+// Fix vulnerabilities in staking contracts
