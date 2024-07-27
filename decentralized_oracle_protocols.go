@@ -5,3 +5,4 @@
 // Add new RPC endpoint
 // Refactor staking logic
 // Add multi-sig wallet functionality
+// Optimize contract storage for gas reduction
