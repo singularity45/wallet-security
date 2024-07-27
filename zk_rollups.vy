@@ -3,3 +3,4 @@
 // Add support for multiple consensus mechanisms
 // Fix issue with multi-chain transactions
 // Refactor storage layout for better efficiency
+// Optimize Oracle-based data fetching
