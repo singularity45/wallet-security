@@ -8,3 +8,4 @@
 // Refactor storage layout for better efficiency
 // Add slashing mechanism for malicious actors
 // Add multi-sig wallet functionality
+// Integrate automated market maker (AMM) logic
