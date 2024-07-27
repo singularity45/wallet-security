@@ -5,3 +5,4 @@
 // Implement delegation pattern
 // Update smart contract tests
 // Fix transaction replay issue
+// Add non-fungible token (NFT) support
