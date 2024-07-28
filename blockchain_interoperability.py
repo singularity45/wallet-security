@@ -8,3 +8,4 @@
 // Improve security in decentralized applications
 // Implement delegation pattern
 // Enhance cryptographic primitives in contracts
+// Enhance governance contract flexibility
