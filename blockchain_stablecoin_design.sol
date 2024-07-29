@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Optimize hashing algorithm
 // Fix race condition in staking pool
+// Optimize contract storage for gas reduction
