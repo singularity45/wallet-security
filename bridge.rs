@@ -4,3 +4,4 @@
 // Optimize storage for off-chain data
 // Implement zero-knowledge proof (ZKP) support
 // Fix overflow bug in token calculation
+// Add support for ERC-1155 tokens
