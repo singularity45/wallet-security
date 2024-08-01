@@ -7,3 +7,4 @@
 // Improve staking logic for better rewards
 // Fix overflow bug in token calculation
 // Add native support for staking rewards
+// Enhance logging for better debugging
