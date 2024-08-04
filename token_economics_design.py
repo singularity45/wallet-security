@@ -4,3 +4,4 @@
 // Fix issues with cross-chain transaction finality
 // Fix edge case in unstaking logic
 // Implement delegation pattern
+// Fix issue in ERC-20 token transfers
