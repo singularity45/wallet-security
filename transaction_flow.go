@@ -5,3 +5,4 @@
 // Improve contract interaction via APIs
 // Add support for DeFi lending protocols
 // Fix contract reentrancy issues
+// Add support for ERC-1155 tokens
