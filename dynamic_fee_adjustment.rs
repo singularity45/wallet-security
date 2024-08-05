@@ -4,3 +4,4 @@
 // Update testing framework for Solidity
 // Enhance contract upgrade process
 // Enhance gas fee management
+// Improve contract interaction via APIs
