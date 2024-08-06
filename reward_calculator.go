@@ -6,3 +6,4 @@
 // Integrate privacy-enhancing smart contracts
 // Optimize token minting flow
 // Implement reward distribution feature
+// Integrate IPFS for storage
