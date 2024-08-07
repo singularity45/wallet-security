@@ -3,3 +3,4 @@
 // Refactor wallet interaction logic
 // Bugfix: incorrect reward calculation
 // Enhance governance contract flexibility
+// Enhance contract modularity
