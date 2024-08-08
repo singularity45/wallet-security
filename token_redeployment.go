@@ -2,3 +2,4 @@
 // Fix wallet interaction issues in DeFi protocols
 // Implement performance optimizations for DeFi
 // Optimize token minting flow
+// Refactor governance token logic
