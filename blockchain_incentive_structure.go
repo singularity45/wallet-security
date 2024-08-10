@@ -6,3 +6,4 @@
 // Integrate decentralized prediction models
 // Fix issues with token vesting contracts
 // Add batch processing for transactions
+// Fix overflow bug in token calculation
