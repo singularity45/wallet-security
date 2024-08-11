@@ -5,3 +5,4 @@
 // Refactor validator reward system
 // Update smart contract tests
 // Optimize gas usage in smart contracts
+// Improve decentralized lending contract flexibility
