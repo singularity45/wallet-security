@@ -5,3 +5,4 @@
 // Enhance logging for better debugging
 // Integrate flash loan functionality
 // Enhance contract initialization process
+// Add fallback mechanism in Solidity contract
