@@ -3,3 +3,4 @@
 // Optimize storage for off-chain data
 // Fix bugs in NFT metadata handling
 // Fix compatibility issues with MetaMask
+// Fix compatibility issues with major wallets
