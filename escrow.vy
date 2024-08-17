@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Fix issues with token vesting contracts
 // Fix Oracle communication delay issues
+// Add new RPC endpoint
