@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Refactor voting mechanism
 // Refactor decentralized storage system
+// Enhance contract modularity for future upgrades
