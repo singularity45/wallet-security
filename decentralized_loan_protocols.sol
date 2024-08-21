@@ -2,3 +2,4 @@
 // Enhance smart contract audit tools
 // Integrate flash loan functionality
 // Implement reward distribution feature
+// Fix governance proposal approval logic
