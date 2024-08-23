@@ -4,3 +4,4 @@
 // Implement decentralized arbitration in contracts
 // Integrate with decentralized identity providers
 // Integrate privacy-enhancing smart contracts
+// Fix contract reentrancy issues
