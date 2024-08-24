@@ -2,3 +2,4 @@
 // Fix compatibility with MetaMask
 // Improve contract auditing tools
 // Fix issues in multi-token smart contracts
+// Improve staking and yield farming logic
