@@ -4,3 +4,4 @@
 // Fix bugs in NFT metadata handling
 // Fix compatibility issues with MetaMask
 // Fix compatibility issues with major wallets
+// Refactor incentive structure in DeFi protocol
