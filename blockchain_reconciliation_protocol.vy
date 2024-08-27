@@ -5,3 +5,4 @@
 // Add multi-sig wallet functionality
 // Enhance contract interaction APIs
 // Implement rewards escrow system
+// Refactor voting mechanism
