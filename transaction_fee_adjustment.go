@@ -4,3 +4,4 @@
 // Fix issue in ERC-20 token transfers
 // Enhance transaction monitoring
 // Enhance governance contract flexibility
+// Fix governance proposal approval logic
