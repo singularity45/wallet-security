@@ -3,3 +3,4 @@
 // Fix deserialization bug in Haskell code
 // Bugfix: incorrect reward calculation
 // Enhance smart contract compatibility
+// Implement on-chain fee adjustment mechanisms
