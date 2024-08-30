@@ -4,3 +4,4 @@
 // Add automated smart contract testing
 // Enhance developer documentation
 // Fix compatibility with MetaMask
+// Refactor voting mechanism
