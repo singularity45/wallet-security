@@ -3,3 +3,4 @@
 // Fix compatibility issues with MetaMask
 // Add multi-sig wallet functionality
 // Fix token transfer approval issues
+// Add slashing mechanism for malicious actors
