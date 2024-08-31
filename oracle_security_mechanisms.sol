@@ -4,3 +4,4 @@
 // Fix issues with token transfer confirmations
 // Fix bugs in decentralized exchange routing
 // Optimize token burn process
+// Implement price feed oracles for tokens
