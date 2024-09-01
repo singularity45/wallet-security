@@ -3,3 +3,4 @@
 // Optimize contract upgrade process
 // Reduce gas cost in minting logic
 // Improve decentralized exchange (DEX) liquidity
+// Refactor reward pooling algorithm
