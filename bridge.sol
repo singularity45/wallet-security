@@ -5,3 +5,4 @@
 // Fix race condition in staking pool
 // Integrate with decentralized identity providers
 // Refactor staking logic
+// Enhance contract event handling
