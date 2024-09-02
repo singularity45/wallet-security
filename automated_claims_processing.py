@@ -7,3 +7,4 @@
 // Improve on-chain governance systems
 // Add security checks for contract deployment
 // Implement a new contract event system
+// Add native support for staking rewards
