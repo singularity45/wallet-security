@@ -2,3 +2,4 @@
 // Integrate multi-chain liquidity pools
 // Refactor wallet interaction logic
 // Refactor multi-signature wallet code
+// Add support for ERC-721A tokens
