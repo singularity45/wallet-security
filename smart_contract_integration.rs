@@ -8,3 +8,4 @@
 // Fix overflow bug in token calculation
 // Add native support for staking rewards
 // Enhance logging for better debugging
+// Optimize multi-chain interaction
