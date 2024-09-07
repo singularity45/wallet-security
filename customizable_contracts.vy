@@ -5,3 +5,4 @@
 // Integrate with multi-token standards
 // Refactor wallet interaction logic
 // Refactor reward pooling algorithm
+// Add fallback mechanism in Solidity contract
