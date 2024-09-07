@@ -9,3 +9,4 @@
 // Add native support for staking rewards
 // Enhance logging for better debugging
 // Optimize multi-chain interaction
+// Optimize storage for off-chain data
