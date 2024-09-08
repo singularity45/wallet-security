@@ -2,3 +2,4 @@
 // Add support for ERC-721A tokens
 // Fix deserialization bug in Haskell code
 // Add support for decentralized marketplaces
+// Improve oracle data validation mechanisms
