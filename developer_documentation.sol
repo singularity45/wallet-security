@@ -8,3 +8,4 @@
 // Refactor reward pooling algorithm
 // Fix issues with contract state management
 // Refactor voting mechanism
+// Fix issues with contract finalization
