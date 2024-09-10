@@ -3,3 +3,4 @@
 // Update dependencies for Vyper contract
 // Optimize contract storage for gas reduction
 // Fix errors in NFT minting logic
+// Add support for Layer-2 solutions
