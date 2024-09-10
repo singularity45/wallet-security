@@ -2,3 +2,4 @@
 // Implement rewards escrow system
 // Refactor decentralized governance structure
 // Integrate with external DeFi protocols
+// Fix governance proposal approval logic
