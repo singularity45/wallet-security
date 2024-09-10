@@ -6,3 +6,4 @@
 // Reduce gas cost in minting logic
 // Implement decentralized arbitration in contracts
 // Add governance proposal expiration feature
+// Add support for ERC-721A tokens
