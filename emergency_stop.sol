@@ -6,3 +6,4 @@
 // Improve smart contract code modularity
 // Implement adaptive block size for Ethereum
 // Implement adaptive block size for Ethereum
+// Fix contract reentrancy issues
