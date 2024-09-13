@@ -4,3 +4,4 @@
 // Add support for fractional token ownership
 // Implement liquidity pool staking mechanism
 // Integrate privacy-preserving mechanisms
+// Add native support for staking mechanisms
