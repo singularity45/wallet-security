@@ -3,3 +3,4 @@
 // Optimize storage for off-chain data
 // Improve decentralized exchange (DEX) liquidity
 // Refactor smart contract testing framework
+// Implement zero-knowledge proof (ZKP) support
