@@ -3,3 +3,4 @@
 // Add support for decentralized credit scoring
 // Integrate zk-rollups for scaling
 // Improve multi-chain contract deployment
+// Add batch processing for transactions
