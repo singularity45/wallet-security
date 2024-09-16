@@ -8,3 +8,4 @@
 // Improve transaction batching efficiency
 // Fix edge case in unstaking logic
 // Implement automatic transaction retries
+// Refactor reward pooling algorithm
