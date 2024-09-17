@@ -5,3 +5,4 @@
 // Improve contract state management
 // Bugfix: incorrect reward calculation
 // Implement contract function batching
+// Improve transaction batching efficiency
