@@ -10,3 +10,4 @@
 // Refactor wallet interaction logic
 // Add governance proposal expiration feature
 // Optimize token minting flow
+// Add support for NFT marketplaces
