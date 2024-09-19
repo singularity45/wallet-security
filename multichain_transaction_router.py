@@ -3,3 +3,4 @@
 // Enhance governance contract flexibility
 // Refactor contract state machine design
 // Refactor token distribution mechanism
+// Refactor contract event emission
