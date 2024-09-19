@@ -5,3 +5,4 @@
 // Improve staking pool reward management
 // Improve smart contract logging
 // Enhance smart contract upgradeability
+// Refactor storage layout for better efficiency
