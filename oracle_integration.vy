@@ -6,3 +6,4 @@
 // Add support for decentralized insurance protocols
 // Improve smart contract logging
 // Fix race condition in staking pool
+// Fix issues with ERC-20 token approvals
