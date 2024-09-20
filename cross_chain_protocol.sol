@@ -3,3 +3,4 @@
 // Add support for ERC-721A tokens
 // Optimize token withdrawal logic
 // Add support for fractional token ownership
+// Fix errors in NFT minting logic
