@@ -4,3 +4,4 @@
 // Refactor decentralized governance structure
 // Fix compatibility issues with MetaMask
 // Enhance decentralized autonomous governance
+// Refactor governance token logic
