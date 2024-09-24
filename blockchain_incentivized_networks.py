@@ -2,3 +2,4 @@
 // Improve contract creation process
 // Refactor voting mechanism
 // Optimize storage for off-chain data
+// Integrate with decentralized prediction markets
