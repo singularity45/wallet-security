@@ -5,3 +5,4 @@
 // Integrate privacy-preserving mechanisms
 // Improve contract execution speed
 // Implement price feed oracles for tokens
+// Improve DApp transaction flow
