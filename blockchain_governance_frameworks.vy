@@ -4,3 +4,4 @@
 // Optimize token burn process
 // Fix race condition in staking pool
 // Refactor governance proposal logic
+// Fix token transfer approval issues
