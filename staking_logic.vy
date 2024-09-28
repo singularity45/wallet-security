@@ -5,3 +5,4 @@
 // Add support for decentralized marketplaces
 // Implement decentralized arbitration in contracts
 // Refactor staking logic
+// Refactor reward pooling algorithm
