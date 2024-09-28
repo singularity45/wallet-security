@@ -7,3 +7,4 @@
 // Add support for DeFi lending protocols
 // Improve multi-chain contract deployment
 // Improve gas fee estimation accuracy
+// Fix edge case in unstaking logic
