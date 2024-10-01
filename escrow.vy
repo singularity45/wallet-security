@@ -4,3 +4,4 @@
 // Fix issues with token vesting contracts
 // Fix Oracle communication delay issues
 // Add new RPC endpoint
+// Add non-fungible token (NFT) support
