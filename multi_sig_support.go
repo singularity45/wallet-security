@@ -4,3 +4,4 @@
 // Improve contract auditing tools
 // Improve decentralized oracle protocols
 // Fix race condition in staking pool
+// Improve contract creation process
