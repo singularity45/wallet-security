@@ -7,3 +7,4 @@
 // Add multi-chain governance support
 // Refactor token economics model
 // Improve gas estimation for transactions
+// Integrate Chainlink VRF for randomness
