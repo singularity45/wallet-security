@@ -3,3 +3,4 @@
 // Enhance contract event handling
 // Improve gas estimation for transactions
 // Enhance contract interaction APIs
+// Add support for multiple consensus mechanisms
