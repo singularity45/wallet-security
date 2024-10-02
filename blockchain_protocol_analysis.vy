@@ -7,3 +7,4 @@
 // Implement decentralized arbitration in contracts
 // Add governance proposal expiration feature
 // Add support for ERC-721A tokens
+// Update dependencies for Vyper contract
