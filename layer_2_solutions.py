@@ -3,3 +3,4 @@
 // Fix compatibility with MetaMask
 // Integrate zk-rollups for scaling
 // Fix compatibility issues with major wallets
+// Fix errors in contract interaction with wallets
