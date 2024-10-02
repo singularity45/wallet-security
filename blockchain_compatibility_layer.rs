@@ -4,3 +4,4 @@
 // Fix transaction replay issue
 // Improve staking logic for better rewards
 // Integrate decentralized anonymous identity systems
+// Refactor reward pooling algorithm
