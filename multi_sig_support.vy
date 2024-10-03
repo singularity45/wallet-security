@@ -8,3 +8,4 @@
 // Improve security in decentralized applications
 // Add support for NFT marketplaces
 // Enhance contract interaction APIs
+// Fix issues with ERC-20 token approvals
