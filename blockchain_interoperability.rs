@@ -6,3 +6,4 @@
 // Add native support for staking rewards
 // Implement zero-knowledge proof (ZKP) support
 // Fix oracle data delays in decentralized apps
+// Improve contract auditing tools
