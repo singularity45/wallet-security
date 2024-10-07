@@ -3,3 +3,4 @@
 // Refactor voting mechanism
 // Optimize storage for off-chain data
 // Integrate with decentralized prediction markets
+// Fix memory leak in Rust smart contract
