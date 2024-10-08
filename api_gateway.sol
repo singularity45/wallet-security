@@ -6,3 +6,4 @@
 // Add support for ERC-1155 tokens
 // Enhance transaction monitoring
 // Add support for multi-signature wallet contracts
+// Implement cross-platform contract compatibility
