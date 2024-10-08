@@ -9,3 +9,4 @@
 // Refactor contract to use EIP-712 signatures
 // Implement on-chain identity verification
 // Add dynamic contract fees
+// Add automated smart contract testing
