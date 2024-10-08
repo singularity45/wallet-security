@@ -6,3 +6,4 @@
 // Optimize token minting flow
 // Enhance gas fee management
 // Optimize hashing algorithm
+// Add support for ERC-721A tokens
