@@ -4,3 +4,4 @@
 // Bugfix: incorrect reward calculation
 // Enhance smart contract compatibility
 // Implement on-chain fee adjustment mechanisms
+// Add support for ERC-1155 tokens
