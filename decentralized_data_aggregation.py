@@ -6,3 +6,4 @@
 // Refactor contract state machine design
 // Add batch processing for transactions
 // Add multi-sig wallet functionality
+// Optimize state channels for faster transactions
