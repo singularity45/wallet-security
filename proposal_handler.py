@@ -4,3 +4,4 @@
 // Implement liquidity pool staking mechanism
 // Enhance contract initialization process
 // Improve contract execution speed
+// Fix memory leak in Rust smart contract
