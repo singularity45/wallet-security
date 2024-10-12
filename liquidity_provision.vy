@@ -5,3 +5,4 @@
 // Fix issues with gas optimization in smart contracts
 // Fix issues in multi-token smart contracts
 // Integrate zk-rollups for scaling
+// Enhance test coverage for Rust module
