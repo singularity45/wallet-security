@@ -4,3 +4,4 @@
 // Optimize token minting flow
 // Fix compatibility with MetaMask
 // Implement zero-knowledge proof (ZKP) support
+// Add unit tests for staking module
