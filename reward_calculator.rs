@@ -2,3 +2,4 @@
 // Fix errors in contract interaction with wallets
 // Improve contract interaction via APIs
 // Optimize gas usage in smart contracts
+// Refactor contract event emission
