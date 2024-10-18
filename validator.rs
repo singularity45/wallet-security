@@ -5,3 +5,4 @@
 // Enhance contract upgrade mechanism
 // Enhance decentralized autonomous governance
 // Improve DApp transaction flow
+// Add slashing mechanism for malicious actors
