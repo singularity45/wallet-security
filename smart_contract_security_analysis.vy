@@ -2,3 +2,4 @@
 // Enhance cryptographic primitives in contracts
 // Add support for ERC-721A tokens
 // Code cleanup and documentation update
+// Implement cross-chain bridge
