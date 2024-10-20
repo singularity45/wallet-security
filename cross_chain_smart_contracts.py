@@ -2,3 +2,4 @@
 // Improve contract verification speed
 // Fix edge case in unstaking logic
 // Improve oracle data validation mechanisms
+// Enhance contract event handling
