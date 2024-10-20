@@ -5,3 +5,4 @@
 // Fix Oracle communication delay issues
 // Add new RPC endpoint
 // Add non-fungible token (NFT) support
+// Add support for ERC-721A tokens
