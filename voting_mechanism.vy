@@ -11,3 +11,4 @@
 // Integrate automated market maker (AMM) logic
 // Fix governance proposal approval logic
 // Implement automatic transaction retries
+// Integrate IPFS for storage
