@@ -4,3 +4,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Add support for decentralized auctions
 // Fix ERC-721 contract issues with transfers
+// Add native support for staking mechanisms
