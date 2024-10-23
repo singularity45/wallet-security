@@ -8,3 +8,4 @@
 // Fix overflow bug in token calculation
 // Integrate Chainlink oracles
 // Fix scalability issues with smart contracts
+// Upgrade to latest Solidity version
