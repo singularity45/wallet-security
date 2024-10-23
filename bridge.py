@@ -4,3 +4,4 @@
 // Optimize gas usage in contract execution
 // Improve cross-chain asset management
 // Integrate IPFS for storage
+// Fix compatibility with MetaMask
