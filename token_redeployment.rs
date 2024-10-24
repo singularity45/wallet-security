@@ -3,3 +3,4 @@
 // Fix governance proposal approval logic
 // Enhance smart contract audit tools
 // Fix issue with multi-chain transactions
+// Enhance smart contract upgradeability
