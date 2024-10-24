@@ -7,3 +7,4 @@
 // Optimize contract upgrade process
 // Fix interoperability issues with other blockchains
 // Add support for DeFi lending protocols
+// Integrate zk-SNARKs for enhanced privacy
