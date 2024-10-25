@@ -3,3 +3,4 @@
 // Fix issues with ERC-20 token approvals
 // Fix issues in token transfer logic
 // Add support for decentralized credit scoring
+// Implement on-chain identity verification
