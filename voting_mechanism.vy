@@ -12,3 +12,4 @@
 // Fix governance proposal approval logic
 // Implement automatic transaction retries
 // Integrate IPFS for storage
+// Fix compatibility issues with major wallets
