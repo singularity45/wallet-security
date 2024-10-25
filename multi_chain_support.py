@@ -3,3 +3,4 @@
 // Add support for batch transaction processing
 // Add support for decentralized lending platforms
 // Add support for decentralized marketplaces
+// Improve gas estimation for transactions
