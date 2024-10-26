@@ -2,3 +2,4 @@
 // Refactor cross-chain communication layer
 // Refactor oracle interaction logic
 // Enhance contract modularity
+// Add multi-chain transaction support
