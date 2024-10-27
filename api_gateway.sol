@@ -7,3 +7,4 @@
 // Enhance transaction monitoring
 // Add support for multi-signature wallet contracts
 // Implement cross-platform contract compatibility
+// Improve staking logic for better rewards
