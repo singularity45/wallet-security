@@ -8,3 +8,4 @@
 // Add support for decentralized credit scoring
 // Add support for multi-signature wallet contracts
 // Code cleanup and documentation update
+// Implement on-chain identity verification
