@@ -11,3 +11,4 @@
 // Fix governance proposal approval logic
 // Optimize token minting flow
 // Improve staking logic for better rewards
+// Optimize proof-of-stake validation
