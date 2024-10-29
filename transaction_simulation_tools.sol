@@ -5,3 +5,4 @@
 // Refactor Ethereum gas price management
 // Fix edge case in unstaking logic
 // Implement dynamic fee adjustment
+// Add support for decentralized auctions
