@@ -7,3 +7,4 @@
 // Fix issue in token vesting logic
 // Integrate decentralized oracles for data feeds
 // Implement a new contract event system
+// Refactor voting mechanism
