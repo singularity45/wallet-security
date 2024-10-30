@@ -5,3 +5,4 @@
 // Enhance transaction monitoring
 // Enhance governance contract flexibility
 // Fix governance proposal approval logic
+// Refactor governance proposal logic
