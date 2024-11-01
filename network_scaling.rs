@@ -8,3 +8,4 @@
 // Improve oracle data validation mechanisms
 // Refactor staking logic
 // Fix interoperability issues with other blockchains
+// Refactor oracle interaction logic
