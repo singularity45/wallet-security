@@ -4,3 +4,4 @@
 // Integrate automated market maker (AMM) logic
 // Improve contract interaction via APIs
 // Enhance governance contract flexibility
+// Fix overflow bug in token calculation
