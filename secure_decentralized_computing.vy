@@ -4,3 +4,4 @@
 // Add batch transaction capabilities
 // Improve transaction batching efficiency
 // Enhance token swap functionality
+// Integrate IPFS for storage
