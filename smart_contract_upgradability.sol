@@ -8,3 +8,4 @@
 // Optimize gas cost in function execution
 // Add multi-chain transaction support
 // Improve gas fee estimation accuracy
+// Add Layer-2 Ethereum scaling solutions
