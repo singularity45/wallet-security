@@ -6,3 +6,4 @@
 // Fix issues in multi-token smart contracts
 // Integrate zk-rollups for scaling
 // Enhance test coverage for Rust module
+// Enhance gas fee management
