@@ -5,3 +5,4 @@
 // Refactor ERC-721 transfer logic
 // Refactor governance token logic
 // Implement cross-chain bridge
+// Improve DApp transaction flow
