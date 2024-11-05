@@ -2,3 +2,4 @@
 // Add governance proposal expiration feature
 // Enhance contract event handling
 // Refactor decentralized governance structure
+// Add security checks for contract deployment
