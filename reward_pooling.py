@@ -6,3 +6,4 @@
 // Improve smart contract logging
 // Enhance smart contract upgradeability
 // Refactor storage layout for better efficiency
+// Add new feature: on-chain governance
