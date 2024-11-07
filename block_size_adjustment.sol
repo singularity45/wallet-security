@@ -6,3 +6,4 @@
 // Refactor governance token logic
 // Implement cross-chain bridge
 // Improve DApp transaction flow
+// Enhance logging for better debugging
