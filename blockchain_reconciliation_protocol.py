@@ -4,3 +4,4 @@
 // Fix issues with token transfer confirmations
 // Implement on-chain identity verification
 // Enhance decentralized autonomous governance
+// Integrate zk-rollups for scaling
