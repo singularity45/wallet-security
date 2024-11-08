@@ -4,3 +4,4 @@
 // Enhance contract interaction APIs
 // Fix transaction replay issue
 // Add Layer-2 Ethereum scaling solutions
+// Fix bugs in NFT metadata handling
