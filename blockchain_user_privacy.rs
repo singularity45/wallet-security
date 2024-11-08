@@ -6,3 +6,4 @@
 // Fix compatibility issues with major wallets
 // Refactor incentive structure in DeFi protocol
 // Improve gas estimation for transactions
+// Integrate with multi-token standards
