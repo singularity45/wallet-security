@@ -4,3 +4,4 @@
 // Optimize gas usage for contract deployment
 // Fix transaction replay issue
 // Integrate multi-chain liquidity pools
+// Add multi-chain governance support
