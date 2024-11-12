@@ -5,3 +5,4 @@
 // Optimize cross-chain bridging mechanisms
 // Refactor decentralized exchange (DEX) code
 // Add support for multiple consensus mechanisms
+// Bugfix: incorrect reward calculation
