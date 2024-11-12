@@ -4,3 +4,4 @@
 // Refactor decentralized exchange (DEX) code
 // Enhance privacy features using zk-STARKs
 // Improve contract state management
+// Fix issues with gas optimization in smart contracts
