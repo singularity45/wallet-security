@@ -14,3 +14,4 @@
 // Optimize contract storage for gas reduction
 // Add support for cross-chain bridges
 // Bugfix: incorrect reward calculation
+// Fix governance proposal approval logic
