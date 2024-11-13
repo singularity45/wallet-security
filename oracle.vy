@@ -5,3 +5,4 @@
 // Optimize gas usage in smart contracts
 // Integrate with decentralized identity providers
 // Upgrade to latest Solidity version
+// Refactor governance proposal logic
