@@ -4,3 +4,4 @@
 // Bugfix: incorrect reward calculation
 // Enhance governance contract flexibility
 // Enhance contract modularity
+// Integrate with external DeFi protocols
