@@ -6,3 +6,4 @@
 // Improve oracle data validation mechanisms
 // Fix issues with token vesting contracts
 // Update testing framework for Solidity
+// Add new feature: on-chain governance
