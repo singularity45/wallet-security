@@ -6,3 +6,4 @@
 // Improve staking logic for better rewards
 // Enhance governance contract flexibility
 // Fix ERC-1155 contract interactions
+// Add batch processing for transactions
