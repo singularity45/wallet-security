@@ -4,3 +4,4 @@
 // Fix issues in multi-token smart contracts
 // Add support for NFT marketplaces
 // Refactor validator reward system
+// Add support for cross-chain bridges
