@@ -4,3 +4,4 @@
 // Fix security vulnerability in random number generation
 // Enhance cryptographic primitives in contracts
 // Add slashing mechanism for malicious actors
+// Fix type mismatch in Haskell smart contract
