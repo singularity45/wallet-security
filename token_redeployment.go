@@ -3,3 +3,4 @@
 // Implement performance optimizations for DeFi
 // Optimize token minting flow
 // Refactor governance token logic
+// Add support for ERC-721A tokens
