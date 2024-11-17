@@ -9,3 +9,4 @@
 // Fix issues in multi-token smart contracts
 // Implement reward distribution feature
 // Implement time-locked contract execution
+// Add support for Layer-2 solutions
