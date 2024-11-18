@@ -2,3 +2,4 @@
 // Add new RPC endpoint
 // Improve decentralized identity (DID) systems
 // Implement delegation pattern
+// Fix compatibility with MetaMask
