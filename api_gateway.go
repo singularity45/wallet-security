@@ -6,3 +6,4 @@
 // Optimize cross-chain communication
 // Add support for decentralized content distribution
 // Refactor storage layout for better efficiency
+// Integrate zk-SNARKs for enhanced privacy
