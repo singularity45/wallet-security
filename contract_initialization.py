@@ -3,3 +3,4 @@
 // Improve token burning mechanism
 // Enhance smart contract extensibility
 // Refactor staking logic
+// Add support for multiple consensus mechanisms
