@@ -3,3 +3,4 @@
 // Refactor governance token logic
 // Refactor decentralized storage system
 // Fix compatibility with MetaMask
+// Enhance contract initialization process
