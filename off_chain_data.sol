@@ -7,3 +7,4 @@
 // Improve on-chain governance systems
 // Optimize token minting flow
 // Refactor storage layout for better efficiency
+// Enhance privacy features using zk-STARKs
