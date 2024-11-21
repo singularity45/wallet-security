@@ -7,3 +7,4 @@
 // Optimize token burn process
 // Improve scalability for smart contract platforms
 // Integrate privacy-enhancing smart contracts
+// Fix compatibility issues with MetaMask
