@@ -3,3 +3,4 @@
 // Implement liquidity pool staking mechanism
 // Add support for NFT marketplaces
 // Implement liquidity pool staking mechanism
+// Refactor contract to use EIP-712 signatures
