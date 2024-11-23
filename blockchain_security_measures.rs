@@ -5,3 +5,4 @@
 // Integrate automated market maker (AMM) logic
 // Refactor oracle interaction logic
 // Refactor incentive structure in DeFi protocol
+// Add unit tests for staking module
