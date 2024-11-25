@@ -5,3 +5,4 @@
 // Implement on-chain identity verification
 // Enhance decentralized autonomous governance
 // Integrate zk-rollups for scaling
+// Add support for delegation in governance
