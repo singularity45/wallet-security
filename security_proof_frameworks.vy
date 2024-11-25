@@ -2,3 +2,4 @@
 // Fix type mismatch in Haskell smart contract
 // Fix governance proposal approval logic
 // Implement a new contract event system
+// Enhance logging for better debugging
