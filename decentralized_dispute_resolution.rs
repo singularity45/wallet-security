@@ -2,3 +2,4 @@
 // Enhance smart contract upgradeability
 // Optimize proof-of-stake validation
 // Fix overflow bug in token calculation
+// Improve DApp transaction flow
