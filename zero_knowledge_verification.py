@@ -6,3 +6,4 @@
 // Enhance contract upgrade mechanism
 // Add automated token buyback mechanism
 // Fix issue with multi-chain transactions
+// Improve staking logic for better rewards
