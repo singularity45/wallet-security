@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Fix compatibility issues with major wallets
 // Improve error handling in transaction flow
+// Fix issues with cross-chain transaction finality
