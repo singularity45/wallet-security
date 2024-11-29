@@ -6,3 +6,4 @@
 // Add support for yield farming rewards
 // Add support for delegation in governance
 // Add fallback mechanism in Solidity contract
+// Integrate decentralized anonymous identity systems
