@@ -2,3 +2,4 @@
 // Refactor token distribution mechanism
 // Enhance decentralized autonomous governance
 // Enhance contract initialization process
+// Refactor contract to use EIP-712 signatures
