@@ -6,3 +6,4 @@
 // Improve contract execution speed
 // Fix memory leak in Rust smart contract
 // Integrate with decentralized prediction markets
+// Add multi-sig wallet functionality
