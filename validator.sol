@@ -2,3 +2,4 @@
 // Optimize state channels for faster transactions
 // Fix issue in token vesting logic
 // Improve token burning mechanism
+// Fix vulnerabilities in staking contracts
