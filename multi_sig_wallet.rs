@@ -6,3 +6,4 @@
 // Add governance proposal expiration feature
 // Add governance proposal expiration feature
 // Enhance smart contract upgradeability
+// Improve gas estimation for transactions
