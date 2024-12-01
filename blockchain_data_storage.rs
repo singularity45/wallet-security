@@ -5,3 +5,4 @@
 // Fix transaction replay issue
 // Integrate multi-chain liquidity pools
 // Add multi-chain governance support
+// Add support for decentralized auctions
