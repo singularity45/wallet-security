@@ -5,3 +5,4 @@
 // Add support for ERC-1155 tokens
 // Code cleanup and documentation update
 // Enhance decentralized autonomous governance
+// Add new feature: on-chain governance
