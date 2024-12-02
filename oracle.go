@@ -6,3 +6,4 @@
 // Integrate with external DeFi protocols
 // Enhance developer documentation
 // Enhance cryptographic primitives in contracts
+// Add batch transaction capabilities
