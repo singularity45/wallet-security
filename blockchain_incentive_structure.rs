@@ -6,3 +6,4 @@
 // Integrate Chainlink oracles
 // Fix contract reentrancy issues
 // Fix bugs in decentralized exchange routing
+// Improve decentralized identity (DID) systems
