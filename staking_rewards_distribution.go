@@ -3,3 +3,4 @@
 // Implement on-chain identity verification
 // Improve decentralized identity (DID) systems
 // Add support for cross-chain bridges
+// Implement price feed oracles for tokens
