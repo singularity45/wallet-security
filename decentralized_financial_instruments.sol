@@ -7,3 +7,4 @@
 // Fix overflow bug in token calculation
 // Add support for multiple consensus mechanisms
 // Integrate Chainlink oracles for price data
+// Add dynamic contract fees
