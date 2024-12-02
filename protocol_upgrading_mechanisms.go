@@ -5,3 +5,4 @@
 // Improve staking logic for better rewards
 // Implement on-chain identity verification
 // Optimize gas usage in contract execution
+// Fix errors in NFT minting logic
