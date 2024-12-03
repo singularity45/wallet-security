@@ -7,3 +7,4 @@
 // Update README with Go module examples
 // Improve contract verification speed
 // Fix governance proposal approval logic
+// Implement adaptive block size for Ethereum
