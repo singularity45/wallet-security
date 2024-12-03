@@ -12,3 +12,4 @@
 // Add dynamic contract fees
 // Fix governance proposal approval logic
 // Enhance contract interaction APIs
+// Refactor decentralized governance structure
