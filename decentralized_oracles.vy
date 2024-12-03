@@ -9,3 +9,4 @@
 // Improve staking logic for better rewards
 // Improve smart contract logging
 // Integrate Chainlink oracles for price data
+// Implement a new contract event system
