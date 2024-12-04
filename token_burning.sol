@@ -4,3 +4,4 @@
 // Refactor validator reward system
 // Fix interoperability issues with other blockchains
 // Enhance gas fee management
+// Reduce gas cost in minting logic
