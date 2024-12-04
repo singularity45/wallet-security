@@ -2,3 +2,4 @@
 // Optimize contract storage for gas reduction
 // Refactor staking logic
 // Refactor validator reward system
+// Refactor staking logic
