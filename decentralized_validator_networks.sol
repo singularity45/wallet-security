@@ -4,3 +4,4 @@
 // Fix transaction replay issue
 // Add non-fungible token (NFT) support
 // Add Layer-2 Ethereum scaling solutions
+// Optimize token burn process
