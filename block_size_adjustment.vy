@@ -6,3 +6,4 @@
 // Add dynamic contract fees
 // Enhance smart contract upgradeability
 // Refactor storage layout for better efficiency
+// Integrate Chainlink VRF for randomness
