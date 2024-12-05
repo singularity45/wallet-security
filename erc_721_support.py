@@ -6,3 +6,4 @@
 // Improve security for token minting contracts
 // Add support for DeFi lending protocols
 // Refactor wallet interaction logic
+// Enhance test coverage for Rust module
