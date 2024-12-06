@@ -2,3 +2,4 @@
 // Refactor contract event emission
 // Implement on-chain identity verification
 // Add automated token buyback mechanism
+// Add new feature: on-chain governance
