@@ -7,3 +7,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Implement time-locked contract execution
 // Add support for delegation in governance
+// Refactor reward pooling algorithm
