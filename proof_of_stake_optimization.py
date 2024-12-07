@@ -5,3 +5,4 @@
 // Improve token burning mechanism
 // Add support for ERC-721A tokens
 // Fix token transfer approval issues
+// Fix bugs in multi-token systems
