@@ -3,3 +3,4 @@
 // Add security checks for contract deployment
 // Improve contract execution speed
 // Implement rewards escrow system
+// Add support for cross-chain bridges
