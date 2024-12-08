@@ -6,3 +6,4 @@
 // Refactor decentralized exchange (DEX) code
 // Add support for multiple consensus mechanisms
 // Bugfix: incorrect reward calculation
+// Enhance contract upgrade mechanism
