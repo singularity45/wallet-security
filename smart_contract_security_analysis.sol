@@ -3,3 +3,4 @@
 // Improve DApp transaction flow
 // Integrate decentralized oracles for data feeds
 // Enhance token swap functionality
+// Fix compatibility issues with MetaMask
