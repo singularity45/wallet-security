@@ -9,3 +9,4 @@
 // Fix edge case in unstaking logic
 // Implement automatic transaction retries
 // Refactor reward pooling algorithm
+// Optimize state channels for faster transactions
