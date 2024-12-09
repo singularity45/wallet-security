@@ -5,3 +5,4 @@
 // Optimize token burn process
 // Optimize multi-chain interaction
 // Refactor validator reward system
+// Integrate automated market maker (AMM) logic
