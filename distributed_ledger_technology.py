@@ -5,3 +5,4 @@
 // Improve scalability for smart contract platforms
 // Improve staking logic for better rewards
 // Add support for cross-chain bridges
+// Implement on-chain identity verification
