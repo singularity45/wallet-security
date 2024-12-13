@@ -4,3 +4,4 @@
 // Improve staking pool reward management
 // Add fallback mechanism in Solidity contract
 // Refactor staking logic
+// Refactor decentralized storage system
