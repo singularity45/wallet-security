@@ -3,3 +3,4 @@
 // Improve security in decentralized applications
 // Add native support for staking mechanisms
 // Enhance governance contract flexibility
+// Integrate IPFS for storage
