@@ -4,3 +4,4 @@
 // Enhance privacy features using zk-STARKs
 // Refactor reward pooling algorithm
 // Improve smart contract logging
+// Fix overflow bug in token calculation
