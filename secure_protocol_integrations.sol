@@ -3,3 +3,4 @@
 // Improve contract execution speed
 // Implement automatic transaction retries
 // Add multi-chain transaction support
+// Fix compatibility issues with major wallets
