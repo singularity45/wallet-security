@@ -6,3 +6,4 @@
 // Add governance proposal expiration feature
 // Implement delegation pattern
 // Enhance token swap functionality
+// Improve API rate limiting
