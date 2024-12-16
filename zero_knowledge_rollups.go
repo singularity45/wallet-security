@@ -6,3 +6,4 @@
 // Optimize Oracle-based data fetching
 // Fix issue with multi-chain transactions
 // Refactor governance proposal logic
+// Add support for ERC-721A tokens
