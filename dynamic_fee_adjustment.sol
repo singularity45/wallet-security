@@ -2,3 +2,4 @@
 // Improve contract interaction via APIs
 // Enhance gas fee management
 // Integrate Chainlink oracles
+// Enhance logging for better debugging
