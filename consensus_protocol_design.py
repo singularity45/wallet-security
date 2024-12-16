@@ -6,3 +6,4 @@
 // Refactor oracle interaction logic
 // Enhance governance contract flexibility
 // Enhance gas fee management
+// Implement liquidity pool staking mechanism
