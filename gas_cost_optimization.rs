@@ -8,3 +8,4 @@
 // Improve contract verification speed
 // Fix governance proposal approval logic
 // Implement adaptive block size for Ethereum
+// Fix edge case in unstaking logic
