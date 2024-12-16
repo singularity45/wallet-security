@@ -5,3 +5,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Add support for DeFi lending protocols
 // Add slashing mechanism for malicious actors
+// Improve contract modularity
