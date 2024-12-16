@@ -2,3 +2,4 @@
 // Fix issues with token transfer confirmations
 // Refactor token economics model
 // Fix issues with ERC-20 token approvals
+// Fix compatibility issues with MetaMask
