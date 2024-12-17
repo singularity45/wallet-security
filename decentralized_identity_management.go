@@ -4,3 +4,4 @@
 // Refactor multi-signature wallet code
 // Improve ERC-721 token metadata functionality
 // Integrate with decentralized prediction markets
+// Refactor staking logic
