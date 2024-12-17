@@ -6,3 +6,4 @@
 // Enhance contract interaction APIs
 // Implement rewards escrow system
 // Refactor voting mechanism
+// Refactor incentive structure in DeFi protocol
