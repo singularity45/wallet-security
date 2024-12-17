@@ -3,3 +3,4 @@
 // Improve smart contract logging
 // Fix transaction replay issue
 // Improve cross-chain asset management
+// Improve security for token minting contracts
