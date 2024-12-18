@@ -9,3 +9,4 @@
 // Improve error handling in transaction flow
 // Refactor wallet interaction logic
 // Refactor staking logic
+// Improve security in decentralized applications
