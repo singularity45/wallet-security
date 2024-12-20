@@ -5,3 +5,4 @@
 // Improve gas fee estimation accuracy
 // Enhance transaction monitoring
 // Improve staking pool reward management
+// Refactor cross-chain communication layer
