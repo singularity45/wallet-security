@@ -9,3 +9,4 @@
 // Enhance decentralized autonomous governance
 // Add dynamic contract upgrade mechanisms
 // Optimize contract upgrade process
+// Add new feature: on-chain governance
