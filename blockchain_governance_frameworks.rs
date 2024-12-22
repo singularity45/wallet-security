@@ -3,3 +3,4 @@
 // Enhance contract state verification
 // Enhance privacy features using zk-STARKs
 // Refactor staking logic
+// Optimize gas cost in function execution
