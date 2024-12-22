@@ -6,3 +6,4 @@
 // Refactor wallet interaction logic
 // Refactor reward pooling algorithm
 // Add fallback mechanism in Solidity contract
+// Enhance smart contract upgradeability
