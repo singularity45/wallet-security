@@ -4,3 +4,4 @@
 // Implement cross-chain bridge
 // Refactor reward pooling algorithm
 // Improve multi-chain transaction processing
+// Improve gas estimation for transactions
