@@ -7,3 +7,4 @@
 // Fix issues with token vesting contracts
 // Update testing framework for Solidity
 // Add new feature: on-chain governance
+// Refactor reward pooling algorithm
