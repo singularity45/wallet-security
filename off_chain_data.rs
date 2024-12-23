@@ -10,3 +10,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Implement on-chain identity verification
 // Improve contract verification speed
+// Refactor governance token logic
