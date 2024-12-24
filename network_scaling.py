@@ -11,3 +11,4 @@
 // Enhance contract modularity for future upgrades
 // Code cleanup and documentation update
 // Optimize proof-of-stake validation
+// Add support for yield farming rewards
