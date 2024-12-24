@@ -5,3 +5,4 @@
 // Add support for decentralized auctions
 // Fix ERC-721 contract issues with transfers
 // Add native support for staking mechanisms
+// Add support for ERC-721A tokens
