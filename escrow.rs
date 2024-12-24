@@ -12,3 +12,4 @@
 // Fix governance proposal approval logic
 // Refactor oracle interaction logic
 // Add support for decentralized lending platforms
+// Add support for zk-SNARKs in smart contracts
