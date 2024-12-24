@@ -6,3 +6,4 @@
 // Fix issues in token transfer logic
 // Refactor staking logic
 // Optimize gas cost in function execution
+// Refactor decentralized governance structure
