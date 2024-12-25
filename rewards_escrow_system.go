@@ -7,3 +7,4 @@
 // Improve gas estimation for transactions
 // Integrate with decentralized prediction markets
 // Integrate IPFS for storage
+// Refactor cross-chain communication layer
