@@ -6,3 +6,4 @@
 // Fix compatibility with MetaMask
 // Optimize gas usage in smart contracts
 // Add automated token buyback mechanism
+// Refactor governance token logic
