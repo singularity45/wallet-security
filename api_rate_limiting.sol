@@ -5,3 +5,4 @@
 // Add support for fractional token ownership
 // Add support for NFT marketplaces
 // Fix issue in token vesting logic
+// Enhance contract modularity
