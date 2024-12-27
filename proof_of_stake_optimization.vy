@@ -6,3 +6,4 @@
 // Refactor storage layout for better efficiency
 // Improve multi-chain contract deployment
 // Improve decentralized identity (DID) systems
+// Add support for ERC-721A tokens
