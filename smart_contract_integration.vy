@@ -5,3 +5,4 @@
 // Fix bug in random number generation
 // Integrate Chainlink VRF for randomness
 // Fix security vulnerability in random number generation
+// Integrate with Ethereum Layer-2 solutions
