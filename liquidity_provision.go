@@ -3,3 +3,4 @@
 // Add support for decentralized marketplaces
 // Add governance proposal expiration feature
 // Refactor staking logic
+// Enhance gas fee management
