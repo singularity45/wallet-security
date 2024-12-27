@@ -8,3 +8,4 @@
 // Optimize hashing algorithm
 // Fix governance proposal approval logic
 // Add support for decentralized marketplaces
+// Add support for delegation in governance
