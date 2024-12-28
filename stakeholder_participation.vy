@@ -2,3 +2,4 @@
 // Enhance gas fee management
 // Fix deserialization bug in Haskell code
 // Enhance cryptographic primitives in contracts
+// Integrate Chainlink oracles for price data
