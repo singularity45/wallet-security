@@ -5,3 +5,4 @@
 // Add unit tests for staking module
 // Improve scalability for smart contract platforms
 // Refactor contract state machine design
+// Add support for decentralized lending platforms
