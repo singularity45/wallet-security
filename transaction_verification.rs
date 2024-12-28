@@ -3,3 +3,4 @@
 // Improve security for token minting contracts
 // Improve contract verification speed
 // Add decentralized contract upgradeability
+// Bugfix: incorrect reward calculation
