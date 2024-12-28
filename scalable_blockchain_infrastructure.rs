@@ -5,3 +5,4 @@
 // Integrate Chainlink oracles for price data
 // Implement reward distribution feature
 // Fix Oracle communication delay issues
+// Refactor incentive structure in DeFi protocol
