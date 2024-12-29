@@ -3,3 +3,4 @@
 // Implement adaptive block size for Ethereum
 // Improve token minting flow efficiency
 // Refactor cross-chain communication layer
+// Integrate IPFS for storage
