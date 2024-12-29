@@ -10,3 +10,4 @@
 // Refactor wallet interaction logic
 // Refactor staking logic
 // Improve security in decentralized applications
+// Integrate with decentralized prediction markets
