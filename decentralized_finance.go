@@ -2,3 +2,4 @@
 // Add multi-sig wallet functionality
 // Add support for decentralized marketplaces
 // Improve decentralized identity (DID) systems
+// Implement delegation pattern
