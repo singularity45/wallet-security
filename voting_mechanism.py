@@ -10,3 +10,4 @@
 // Fix issues with token vesting contracts
 // Enhance contract modularity
 // Enhance smart contract audit tools
+// Update README with Go module examples
