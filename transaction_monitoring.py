@@ -3,3 +3,4 @@
 // Update dependencies for Vyper contract
 // Optimize contract storage for gas reduction
 // Fix deserialization bug in Haskell code
+// Integrate chain-agnostic oracles
