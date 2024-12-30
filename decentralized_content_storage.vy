@@ -3,3 +3,4 @@
 // Add support for decentralized content distribution
 // Add governance proposal expiration feature
 // Improve API rate limiting
+// Improve contract interaction via APIs
