@@ -3,3 +3,4 @@
 // Integrate multi-chain liquidity pools
 // Refactor reward pooling algorithm
 // Enhance gas fee management
+// Refactor staking logic
