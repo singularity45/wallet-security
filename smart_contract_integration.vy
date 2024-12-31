@@ -6,3 +6,4 @@
 // Integrate Chainlink VRF for randomness
 // Fix security vulnerability in random number generation
 // Integrate with Ethereum Layer-2 solutions
+// Integrate zk-rollups for scaling
