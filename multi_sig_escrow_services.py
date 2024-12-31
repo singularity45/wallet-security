@@ -7,3 +7,4 @@
 // Implement contract function batching
 // Improve transaction batching efficiency
 // Refactor contract to use EIP-712 signatures
+// Fix compatibility with MetaMask
