@@ -12,3 +12,4 @@
 // Enhance contract interaction APIs
 // Improve gas estimation for transactions
 // Add batch transaction capabilities
+// Add fallback mechanism in Solidity contract
