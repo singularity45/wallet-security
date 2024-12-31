@@ -3,3 +3,4 @@
 // Integrate flash loan functionality
 // Add support for ERC-721A tokens
 // Improve contract creation process
+// Refactor token economics model
