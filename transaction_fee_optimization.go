@@ -7,3 +7,4 @@
 // Add batch transaction capabilities
 // Fix bugs in NFT metadata handling
 // Refactor governance proposal logic
+// Integrate zk-rollups for scaling
