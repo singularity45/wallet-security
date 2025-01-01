@@ -4,3 +4,4 @@
 // Add native support for staking mechanisms
 // Add automated smart contract testing
 // Add multi-sig wallet functionality
+// Fix overflow bug in token calculation
