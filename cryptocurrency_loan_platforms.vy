@@ -3,3 +3,4 @@
 // Add multi-sig wallet functionality
 // Refactor reward pooling algorithm
 // Integrate decentralized anonymous identity systems
+// Improve decentralized exchange (DEX) liquidity
