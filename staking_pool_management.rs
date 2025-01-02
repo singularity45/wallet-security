@@ -5,3 +5,4 @@
 // Add support for decentralized marketplaces
 // Fix issues with gas optimization in smart contracts
 // Refactor staking logic
+// Update testing framework for Solidity
