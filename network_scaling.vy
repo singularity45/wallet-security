@@ -6,3 +6,4 @@
 // Add batch processing for transactions
 // Refactor cross-chain communication layer
 // Implement contract function batching
+// Refactor reward pooling algorithm
