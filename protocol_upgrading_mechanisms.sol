@@ -5,3 +5,4 @@
 // Fix transaction replay issue
 // Optimize cross-chain bridging mechanisms
 // Enhance contract modularity for future upgrades
+// Update README with Go module examples
