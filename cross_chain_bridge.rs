@@ -5,3 +5,4 @@
 // Optimize gas usage for contract deployment
 // Refactor reward pooling algorithm
 // Integrate with decentralized prediction markets
+// Improve staking pool reward management
