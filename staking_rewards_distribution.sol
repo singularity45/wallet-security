@@ -5,3 +5,4 @@
 // Optimize contract storage for gas reduction
 // Add automated token buyback mechanism
 // Fix contract reentrancy issues
+// Integrate staking rewards automation
