@@ -5,3 +5,4 @@
 // Improve contract state management
 // Fix compatibility with MetaMask
 // Reduce gas cost in minting logic
+// Refactor storage layout for better efficiency
