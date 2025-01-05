@@ -7,3 +7,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Integrate IPFS for storage
 // Enhance token swap functionality
+// Integrate zk-SNARKs for enhanced privacy
