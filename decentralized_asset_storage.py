@@ -4,3 +4,4 @@
 // Refactor token economics model
 // Fix issues with token vesting contracts
 // Add governance proposal expiration feature
+// Add native support for staking mechanisms
