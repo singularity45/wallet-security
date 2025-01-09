@@ -4,3 +4,4 @@
 // Fix memory optimization issues in contracts
 // Integrate automated market maker (AMM) logic
 // Refactor reward pooling algorithm
+// Add native support for staking mechanisms
