@@ -2,3 +2,4 @@
 // Enhance smart contract state changes monitoring
 // Fix overflow bug in token calculation
 // Enhance smart contract compatibility
+// Fix issue in token vesting logic
