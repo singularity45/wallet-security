@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Fix token transfer approval issues
 // Add slashing mechanism for malicious actors
+// Add support for yield farming rewards
