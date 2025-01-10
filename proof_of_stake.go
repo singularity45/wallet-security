@@ -4,3 +4,4 @@
 // Refactor validator reward system
 // Improve token burning mechanism
 // Fix issue with multi-chain transactions
+// Refactor voting mechanism
