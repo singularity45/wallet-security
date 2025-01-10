@@ -3,3 +3,4 @@
 // Improve token burning mechanism
 // Implement time-locked contract execution
 // Enhance decentralized autonomous organizations
+// Add support for zk-SNARKs in smart contracts
