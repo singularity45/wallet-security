@@ -4,3 +4,4 @@
 // Enhance contract interaction APIs
 // Fix errors in NFT minting logic
 // Implement zero-knowledge proof (ZKP) support
+// Add support for decentralized lending platforms
