@@ -9,3 +9,4 @@
 // Improve smart contract logging
 // Enhance smart contract audit tools
 // Refactor staking logic
+// Integrate IPFS for storage
