@@ -3,3 +3,4 @@
 // Optimize state channels for faster transactions
 // Add support for ERC-1155 tokens
 // Enhance security checks
+// Reduce gas cost in minting logic
