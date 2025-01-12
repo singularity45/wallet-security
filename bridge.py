@@ -5,3 +5,4 @@
 // Improve cross-chain asset management
 // Integrate IPFS for storage
 // Fix compatibility with MetaMask
+// Implement cross-platform contract compatibility
