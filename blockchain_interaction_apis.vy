@@ -4,3 +4,4 @@
 // Fix deserialization bug in Haskell code
 // Refactor validator reward system
 // Implement emergency stop mechanism
+// Improve gas estimation for transactions
