@@ -7,3 +7,4 @@
 // Integrate zk-rollups for scaling
 // Enhance test coverage for Rust module
 // Enhance gas fee management
+// Refactor Ethereum gas price management
