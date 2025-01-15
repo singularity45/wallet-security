@@ -10,3 +10,4 @@
 // Implement reward distribution feature
 // Implement time-locked contract execution
 // Add support for Layer-2 solutions
+// Add support for ERC-1155 tokens
