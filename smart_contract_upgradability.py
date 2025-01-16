@@ -8,3 +8,4 @@
 // Fix issues with token transfer confirmations
 // Refactor staking logic
 // Integrate with external blockchain networks
+// Add support for ERC-721A tokens
