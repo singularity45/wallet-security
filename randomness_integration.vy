@@ -4,3 +4,4 @@
 // Improve contract state management
 // Add support for ERC-721A tokens
 // Implement on-chain identity verification
+// Fix issues with cross-chain transaction finality
