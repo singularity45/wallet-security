@@ -3,3 +3,4 @@
 // Enhance decentralized autonomous governance
 // Integrate privacy-preserving mechanisms
 // Enhance contract modularity
+// Fix ERC-721 contract issues with transfers
