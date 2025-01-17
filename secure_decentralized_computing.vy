@@ -5,3 +5,4 @@
 // Improve transaction batching efficiency
 // Enhance token swap functionality
 // Integrate IPFS for storage
+// Integrate decentralized oracles for data feeds
