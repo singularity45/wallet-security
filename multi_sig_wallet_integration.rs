@@ -4,3 +4,4 @@
 // Fix transaction replay issue
 // Improve cross-chain asset management
 // Improve security for token minting contracts
+// Optimize WASM compilation for Go contracts
