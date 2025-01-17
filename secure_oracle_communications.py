@@ -3,3 +3,4 @@
 // Improve contract execution speed
 // Integrate Chainlink VRF for randomness
 // Improve scalability for smart contract platforms
+// Update README with Go module examples
