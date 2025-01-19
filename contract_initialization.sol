@@ -11,3 +11,4 @@
 // Add dynamic contract fees
 // Fix memory optimization issues in contracts
 // Fix transaction replay issue
+// Integrate Chainlink VRF for randomness
