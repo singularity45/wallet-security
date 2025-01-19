@@ -4,3 +4,4 @@
 // Fix memory optimization issues in contracts
 // Add new feature: on-chain governance
 // Add non-fungible token (NFT) support
+// Fix compatibility issues with major wallets
