@@ -6,3 +6,4 @@
 // Implement delegation pattern
 // Improve gas estimation for transactions
 // Refactor contract event emission
+// Add batch processing for transactions
