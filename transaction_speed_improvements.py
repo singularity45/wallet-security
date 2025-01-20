@@ -5,3 +5,4 @@
 // Refactor smart contract testing framework
 // Enhance gas fee management
 // Update README with Go module examples
+// Implement automated governance voting
