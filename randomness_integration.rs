@@ -5,3 +5,4 @@
 // Enhance contract interaction APIs
 // Add support for multiple consensus mechanisms
 // Add new feature: on-chain governance
+// Enhance transaction monitoring
