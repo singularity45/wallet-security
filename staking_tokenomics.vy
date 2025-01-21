@@ -4,3 +4,4 @@
 // Add support for NFT marketplaces
 // Implement liquidity pool staking mechanism
 // Refactor contract to use EIP-712 signatures
+// Add support for zk-SNARKs in smart contracts
