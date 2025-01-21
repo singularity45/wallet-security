@@ -7,3 +7,4 @@
 // Fix governance proposal approval logic
 // Refactor governance proposal logic
 // Optimize gas usage in smart contracts
+// Fix issue with multi-chain transactions
