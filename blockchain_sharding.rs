@@ -4,3 +4,4 @@
 // Fix compatibility with MetaMask
 // Fix oracle data delays in decentralized apps
 // Refactor oracle interaction logic
+// Improve staking pool reward management
