@@ -10,3 +10,4 @@
 // Fix compatibility issues with MetaMask
 // Integrate with Ethereum Layer-2 solutions
 // Add support for ERC-1155 tokens
+// Integrate zk-rollups for scaling
