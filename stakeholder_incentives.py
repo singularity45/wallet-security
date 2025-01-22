@@ -3,3 +3,4 @@
 // Fix ERC-721 contract issues with transfers
 // Implement on-chain fee adjustment mechanisms
 // Improve token burning mechanism
+// Implement adaptive block size for Ethereum
