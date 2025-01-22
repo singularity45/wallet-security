@@ -3,3 +3,4 @@
 // Integrate with decentralized prediction markets
 // Add support for Layer-2 solutions
 // Fix transaction replay issue
+// Refactor validator reward system
