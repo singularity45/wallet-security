@@ -15,3 +15,4 @@
 // Refactor decentralized governance structure
 // Integrate with decentralized identity providers
 // Refactor decentralized governance structure
+// Improve security in decentralized applications
