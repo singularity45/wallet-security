@@ -3,3 +3,4 @@
 // Add support for decentralized marketplaces
 // Improve decentralized identity (DID) systems
 // Implement delegation pattern
+// Refactor voting mechanism
