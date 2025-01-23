@@ -3,3 +3,4 @@
 // Optimize state channels for faster transactions
 // Refactor staking logic
 // Implement adaptive block size for Ethereum
+// Optimize cross-chain communication
