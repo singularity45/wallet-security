@@ -6,3 +6,4 @@
 // Integrate privacy-preserving mechanisms
 // Implement reward distribution feature
 // Integrate Chainlink oracles for price data
+// Refactor incentive structure in DeFi protocol
