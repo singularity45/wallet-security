@@ -4,3 +4,4 @@
 // Improve smart contract logging
 // Add support for decentralized insurance protocols
 // Refactor reward pooling algorithm
+// Enhance privacy features using zk-STARKs
