@@ -3,3 +3,4 @@
 // Improve multi-chain transaction processing
 // Implement emergency stop mechanism
 // Refactor staking logic
+// Add support for ERC-721A tokens
