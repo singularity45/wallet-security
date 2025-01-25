@@ -8,3 +8,4 @@
 // Improve security for token minting contracts
 // Add support for fractional token ownership
 // Optimize hashing algorithm
+// Fix edge case in unstaking logic
