@@ -9,3 +9,4 @@
 // Optimize decentralized application performance
 // Optimize gas cost in function execution
 // Enhance transaction monitoring
+// Add support for zk-SNARKs in smart contracts
