@@ -4,3 +4,4 @@
 // Refactor governance token logic
 // Fix bugs in decentralized exchange routing
 // Integrate Chainlink oracles for price data
+// Add support for zk-SNARKs in smart contracts
