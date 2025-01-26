@@ -12,3 +12,4 @@
 // Refactor reward pooling algorithm
 // Implement on-chain fee adjustment mechanisms
 // Integrate decentralized prediction models
+// Implement zero-knowledge proof (ZKP) support
