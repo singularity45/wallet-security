@@ -2,3 +2,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Improve contract execution performance
 // Fix governance proposal approval logic
+// Optimize storage for off-chain data
