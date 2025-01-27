@@ -6,3 +6,4 @@
 // Fix race condition in staking pool
 // Improve contract creation process
 // Fix compatibility with MetaMask
+// Implement on-chain identity verification
