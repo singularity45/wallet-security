@@ -3,3 +3,4 @@
 // Refactor cross-chain communication layer
 // Fix data consistency issues in smart contracts
 // Fix Oracle communication delay issues
+// Add unit tests for staking module
