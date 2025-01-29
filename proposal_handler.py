@@ -8,3 +8,4 @@
 // Integrate with decentralized prediction markets
 // Add multi-sig wallet functionality
 // Upgrade to latest Solidity version
+// Optimize gas usage in smart contracts
