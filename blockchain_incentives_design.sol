@@ -2,3 +2,4 @@
 // Implement on-chain identity verification
 // Implement on-chain identity verification
 // Improve decentralized oracle protocols
+// Improve staking pool reward management
