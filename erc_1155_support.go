@@ -5,3 +5,4 @@
 // Add support for NFT marketplaces
 // Refactor validator reward system
 // Add support for cross-chain bridges
+// Implement cross-chain bridge
