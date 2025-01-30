@@ -3,3 +3,4 @@
 // Fix issues in token transfer logic
 // Fix race condition in staking pool
 // Improve DApp transaction flow
+// Fix wallet interaction issues in DeFi protocols
