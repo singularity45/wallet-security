@@ -8,3 +8,4 @@
 // Fix issue with multi-chain transactions
 // Improve staking logic for better rewards
 // Fix vulnerability in decentralized finance protocols
+// Refactor decentralized exchange (DEX) code
