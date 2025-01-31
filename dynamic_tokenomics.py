@@ -3,3 +3,4 @@
 // Implement cross-chain bridge
 // Improve contract modularity
 // Fix issue with multi-chain transactions
+// Add batch processing for transactions
