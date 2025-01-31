@@ -6,3 +6,4 @@
 // Enhance transaction monitoring
 // Improve staking pool reward management
 // Refactor cross-chain communication layer
+// Fix type mismatch in Haskell smart contract
