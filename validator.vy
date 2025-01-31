@@ -4,3 +4,4 @@
 // Fix race condition in staking pool
 // Improve DApp transaction flow
 // Fix wallet interaction issues in DeFi protocols
+// Improve gas estimation for transactions
