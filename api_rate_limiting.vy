@@ -4,3 +4,4 @@
 // Refactor token economics model
 // Improve multi-chain contract deployment
 // Implement contract function batching
+// Update README with Go module examples
