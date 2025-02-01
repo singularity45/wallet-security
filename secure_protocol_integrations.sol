@@ -4,3 +4,4 @@
 // Implement automatic transaction retries
 // Add multi-chain transaction support
 // Fix compatibility issues with major wallets
+// Add batch processing for transactions
