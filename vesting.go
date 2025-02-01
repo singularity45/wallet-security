@@ -8,3 +8,4 @@
 // Integrate IPFS for storage
 // Enhance token swap functionality
 // Integrate zk-SNARKs for enhanced privacy
+// Fix issues with token vesting contracts
