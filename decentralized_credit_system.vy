@@ -7,3 +7,4 @@
 // Implement contract function batching
 // Integrate Chainlink VRF for randomness
 // Add batch processing for transactions
+// Improve DApp transaction flow
