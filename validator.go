@@ -2,3 +2,4 @@
 // Fix governance proposal approval logic
 // Improve smart contract code modularity
 // Optimize token minting flow
+// Add support for delegation in governance
