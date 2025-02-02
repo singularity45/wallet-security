@@ -7,3 +7,4 @@
 // Optimize state channels for faster transactions
 // Enhance gas fee management
 // Fix edge case in unstaking logic
+// Refactor staking logic
