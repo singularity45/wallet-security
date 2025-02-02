@@ -6,3 +6,4 @@
 // Code cleanup and documentation update
 // Enhance decentralized autonomous governance
 // Add new feature: on-chain governance
+// Refactor staking logic
