@@ -7,3 +7,4 @@
 // Add batch transaction capabilities
 // Integrate decentralized oracles for data feeds
 // Update README with Go module examples
+// Fix ERC-20 token interface bugs
