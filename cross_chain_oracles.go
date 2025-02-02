@@ -4,3 +4,4 @@
 // Improve cross-chain asset management
 // Refactor governance token logic
 // Optimize hashing algorithm
+// Add new feature: on-chain governance
